@@ -1,0 +1,63 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="save\4x4.txt" />
+    <None Remove="save\6x6.txt" />
+    <None Remove="save\8x8.txt" />
+    <None Remove="save\Peppa_fekete_fel.png" />
+    <None Remove="save\Peppa_fekete_jobb.png" />
+    <None Remove="save\Peppa_fekete_le.png" />
+    <None Remove="save\Peppa_malac_szemcsi_fekete.png" />
+    <None Remove="save\Peppa_malac_szemcsi_piros.png" />
+    <None Remove="save\Peppa_piros_fel.png" />
+    <None Remove="save\Peppa_piros_jobb.png" />
+    <None Remove="save\Peppa_piros_le.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    
+    <ProjectReference Include="..\MaciModel\MaciModel.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="save\4x4.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="save\6x6.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="save\8x8.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <Resource Include="save\Peppa_fekete_fel.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="save\Peppa_fekete_jobb.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="save\Peppa_fekete_le.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="save\Peppa_malac_szemcsi_piros.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="save\Peppa_piros_fel.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="save\Peppa_piros_jobb.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="save\Peppa_piros_le.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+</Project>

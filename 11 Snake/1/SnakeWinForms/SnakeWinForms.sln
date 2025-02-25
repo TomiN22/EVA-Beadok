@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnakeWinForms", "SnakeWinForms.csproj", "{AFBF825B-BC8A-438A-B80C-46E5CC51C28F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SnakeModel", "..\SnakeModel\SnakeModel.csproj", "{56BDDA89-14A1-4C93-B037-A734067C6FBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFBF825B-BC8A-438A-B80C-46E5CC51C28F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFBF825B-BC8A-438A-B80C-46E5CC51C28F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFBF825B-BC8A-438A-B80C-46E5CC51C28F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFBF825B-BC8A-438A-B80C-46E5CC51C28F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56BDDA89-14A1-4C93-B037-A734067C6FBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56BDDA89-14A1-4C93-B037-A734067C6FBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56BDDA89-14A1-4C93-B037-A734067C6FBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56BDDA89-14A1-4C93-B037-A734067C6FBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8196547D-B3B3-4A03-92ED-750A95AC5977}
+	EndGlobalSection
+EndGlobal

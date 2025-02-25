@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ELTE\\2023-24 \u0151szi\\EVA\\Gyak\\Bead\\2\\zipelt\\RobotmalacWinForms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E2D23BD-A225-4F1A-AA3E-31C16112CE19}|..\\RobotMalacWPF\\RobotMalacView.csproj|d:\\elte\\2023-24 \u0151szi\\eva\\gyak\\bead\\2\\zipelt\\robotmalacwpf\\viewmodel\\robotmalacviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E2D23BD-A225-4F1A-AA3E-31C16112CE19}|..\\RobotMalacWPF\\RobotMalacView.csproj|d:\\elte\\2023-24 \u0151szi\\eva\\gyak\\bead\\2\\zipelt\\robotmalacwpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81130BDC-9A6C-48FD-AEE8-0F993B36DE66}|..\\RobotTest\\RobotTest.csproj|d:\\elte\\2023-24 \u0151szi\\eva\\gyak\\bead\\2\\zipelt\\robottest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7155861D-3DDA-4107-B864-5929E35ECCD8}|..\\RobotmalacModel\\RobotmalacModel.csproj|d:\\elte\\2023-24 \u0151szi\\eva\\gyak\\bead\\2\\zipelt\\robotmalacmodel\\model\\robotmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7155861D-3DDA-4107-B864-5929E35ECCD8}|..\\RobotmalacModel\\RobotmalacModel.csproj|d:\\elte\\2023-24 \u0151szi\\eva\\gyak\\bead\\2\\zipelt\\robotmalacmodel\\persistence\\irobotfiledataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E2D23BD-A225-4F1A-AA3E-31C16112CE19}|..\\RobotMalacWPF\\RobotMalacView.csproj|d:\\elte\\2023-24 \u0151szi\\eva\\gyak\\bead\\2\\zipelt\\robotmalacwpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E2D23BD-A225-4F1A-AA3E-31C16112CE19}|..\\RobotMalacWPF\\RobotMalacView.csproj|d:\\elte\\2023-24 \u0151szi\\eva\\gyak\\bead\\2\\zipelt\\robotmalacwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E2D23BD-A225-4F1A-AA3E-31C16112CE19}|..\\RobotMalacWPF\\RobotMalacView.csproj|d:\\elte\\2023-24 \u0151szi\\eva\\gyak\\bead\\2\\zipelt\\robotmalacwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E2D23BD-A225-4F1A-AA3E-31C16112CE19}|..\\RobotMalacWPF\\RobotMalacView.csproj|d:\\elte\\2023-24 \u0151szi\\eva\\gyak\\bead\\2\\zipelt\\robotmalacwpf\\viewmodel\\robotmalacfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E2D23BD-A225-4F1A-AA3E-31C16112CE19}|..\\RobotMalacWPF\\RobotMalacView.csproj|d:\\elte\\2023-24 \u0151szi\\eva\\gyak\\bead\\2\\zipelt\\robotmalacwpf\\viewmodel\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E2D23BD-A225-4F1A-AA3E-31C16112CE19}|..\\RobotMalacWPF\\RobotMalacView.csproj|d:\\elte\\2023-24 \u0151szi\\eva\\gyak\\bead\\2\\zipelt\\robotmalacwpf\\viewmodel\\delegatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7155861D-3DDA-4107-B864-5929E35ECCD8}|..\\RobotmalacModel\\RobotmalacModel.csproj|d:\\elte\\2023-24 \u0151szi\\eva\\gyak\\bead\\2\\zipelt\\robotmalacmodel\\persistence\\robottable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\ELTE\\2023-24 \u0151szi\\EVA\\Gyak\\Bead\\2\\zipelt\\RobotMalacWPF\\App.xaml.cs",
+              "RelativeDocumentMoniker": "..\\RobotMalacWPF\\App.xaml.cs",
+              "ToolTip": "D:\\ELTE\\2023-24 \u0151szi\\EVA\\Gyak\\Bead\\2\\zipelt\\RobotMalacWPF\\App.xaml.cs",
+              "RelativeToolTip": "..\\RobotMalacWPF\\App.xaml.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAkwDsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T17:06:28.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RobotMalacField.cs",
+              "DocumentMoniker": "D:\\ELTE\\2023-24 \u0151szi\\EVA\\Gyak\\Bead\\2\\zipelt\\RobotMalacWPF\\ViewModel\\RobotMalacField.cs",
+              "RelativeDocumentMoniker": "..\\RobotMalacWPF\\ViewModel\\RobotMalacField.cs",
+              "ToolTip": "D:\\ELTE\\2023-24 \u0151szi\\EVA\\Gyak\\Bead\\2\\zipelt\\RobotMalacWPF\\ViewModel\\RobotMalacField.cs",
+              "RelativeToolTip": "..\\RobotMalacWPF\\ViewModel\\RobotMalacField.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T17:06:28.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "D:\\ELTE\\2023-24 \u0151szi\\EVA\\Gyak\\Bead\\2\\zipelt\\RobotMalacWPF\\ViewModel\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "..\\RobotMalacWPF\\ViewModel\\ViewModelBase.cs",
+              "ToolTip": "D:\\ELTE\\2023-24 \u0151szi\\EVA\\Gyak\\Bead\\2\\zipelt\\RobotMalacWPF\\ViewModel\\ViewModelBase.cs",
+              "RelativeToolTip": "..\\RobotMalacWPF\\ViewModel\\ViewModelBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T17:06:28.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\ELTE\\2023-24 \u0151szi\\EVA\\Gyak\\Bead\\2\\zipelt\\RobotMalacWPF\\App.xaml",
+              "RelativeDocumentMoniker": "..\\RobotMalacWPF\\App.xaml",
+              "ToolTip": "D:\\ELTE\\2023-24 \u0151szi\\EVA\\Gyak\\Bead\\2\\zipelt\\RobotMalacWPF\\App.xaml",
+              "RelativeToolTip": "..\\RobotMalacWPF\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-23T17:06:28.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\ELTE\\2023-24 \u0151szi\\EVA\\Gyak\\Bead\\2\\zipelt\\RobotMalacWPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\RobotMalacWPF\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\ELTE\\2023-24 \u0151szi\\EVA\\Gyak\\Bead\\2\\zipelt\\RobotMalacWPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "..\\RobotMalacWPF\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T17:06:28.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RobotMalacViewModel.cs",
+              "DocumentMoniker": "D:\\ELTE\\2023-24 \u0151szi\\EVA\\Gyak\\Bead\\2\\zipelt\\RobotMalacWPF\\ViewModel\\RobotMalacViewModel.cs",
+              "RelativeDocumentMoniker": "..\\RobotMalacWPF\\ViewModel\\RobotMalacViewModel.cs",
+              "ToolTip": "D:\\ELTE\\2023-24 \u0151szi\\EVA\\Gyak\\Bead\\2\\zipelt\\RobotMalacWPF\\ViewModel\\RobotMalacViewModel.cs",
+              "RelativeToolTip": "..\\RobotMalacWPF\\ViewModel\\RobotMalacViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALYBAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T17:06:28.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RobotModel.cs",
+              "DocumentMoniker": "D:\\ELTE\\2023-24 \u0151szi\\EVA\\Gyak\\Bead\\2\\zipelt\\RobotmalacModel\\Model\\RobotModel.cs",
+              "RelativeDocumentMoniker": "..\\RobotmalacModel\\Model\\RobotModel.cs",
+              "ToolTip": "D:\\ELTE\\2023-24 \u0151szi\\EVA\\Gyak\\Bead\\2\\zipelt\\RobotmalacModel\\Model\\RobotModel.cs",
+              "RelativeToolTip": "..\\RobotmalacModel\\Model\\RobotModel.cs",
+              "ViewState": "AQIAAAcDAAAAAAAAAAAMwBMDAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T17:06:28.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\ELTE\\2023-24 \u0151szi\\EVA\\Gyak\\Bead\\2\\zipelt\\RobotTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\RobotTest\\UnitTest1.cs",
+              "ToolTip": "D:\\ELTE\\2023-24 \u0151szi\\EVA\\Gyak\\Bead\\2\\zipelt\\RobotTest\\UnitTest1.cs",
+              "RelativeToolTip": "..\\RobotTest\\UnitTest1.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAuwIsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T17:06:28.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DelegateCommand.cs",
+              "DocumentMoniker": "D:\\ELTE\\2023-24 \u0151szi\\EVA\\Gyak\\Bead\\2\\zipelt\\RobotMalacWPF\\ViewModel\\DelegateCommand.cs",
+              "RelativeDocumentMoniker": "..\\RobotMalacWPF\\ViewModel\\DelegateCommand.cs",
+              "ToolTip": "D:\\ELTE\\2023-24 \u0151szi\\EVA\\Gyak\\Bead\\2\\zipelt\\RobotMalacWPF\\ViewModel\\DelegateCommand.cs",
+              "RelativeToolTip": "..\\RobotMalacWPF\\ViewModel\\DelegateCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T17:06:28.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\ELTE\\2023-24 \u0151szi\\EVA\\Gyak\\Bead\\2\\zipelt\\RobotMalacWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "..\\RobotMalacWPF\\MainWindow.xaml",
+              "ToolTip": "D:\\ELTE\\2023-24 \u0151szi\\EVA\\Gyak\\Bead\\2\\zipelt\\RobotMalacWPF\\MainWindow.xaml",
+              "RelativeToolTip": "..\\RobotMalacWPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-23T17:06:28.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRobotFileDataAccess.cs",
+              "DocumentMoniker": "D:\\ELTE\\2023-24 \u0151szi\\EVA\\Gyak\\Bead\\2\\zipelt\\RobotmalacModel\\Persistence\\IRobotFileDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\RobotmalacModel\\Persistence\\IRobotFileDataAccess.cs",
+              "ToolTip": "D:\\ELTE\\2023-24 \u0151szi\\EVA\\Gyak\\Bead\\2\\zipelt\\RobotmalacModel\\Persistence\\IRobotFileDataAccess.cs",
+              "RelativeToolTip": "..\\RobotmalacModel\\Persistence\\IRobotFileDataAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T17:06:28.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RobotTable.cs",
+              "DocumentMoniker": "D:\\ELTE\\2023-24 \u0151szi\\EVA\\Gyak\\Bead\\2\\zipelt\\RobotmalacModel\\Persistence\\RobotTable.cs",
+              "RelativeDocumentMoniker": "..\\RobotmalacModel\\Persistence\\RobotTable.cs",
+              "ToolTip": "D:\\ELTE\\2023-24 \u0151szi\\EVA\\Gyak\\Bead\\2\\zipelt\\RobotmalacModel\\Persistence\\RobotTable.cs",
+              "RelativeToolTip": "..\\RobotmalacModel\\Persistence\\RobotTable.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwDQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T17:06:28.211Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

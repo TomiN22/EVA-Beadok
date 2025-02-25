@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KameleonWPF", "KameleonWPF.csproj", "{52277EA4-1E3B-4CBE-995A-510EFF17A9B6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KameleonModel", "..\KameleonModel\KameleonModel.csproj", "{96F65794-FE1B-4E35-921D-22EA3D832794}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52277EA4-1E3B-4CBE-995A-510EFF17A9B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52277EA4-1E3B-4CBE-995A-510EFF17A9B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52277EA4-1E3B-4CBE-995A-510EFF17A9B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52277EA4-1E3B-4CBE-995A-510EFF17A9B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96F65794-FE1B-4E35-921D-22EA3D832794}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96F65794-FE1B-4E35-921D-22EA3D832794}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96F65794-FE1B-4E35-921D-22EA3D832794}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96F65794-FE1B-4E35-921D-22EA3D832794}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F8CF3AE-1C6F-4006-86A0-0A61BF1DB0CD}
+	EndGlobalSection
+EndGlobal

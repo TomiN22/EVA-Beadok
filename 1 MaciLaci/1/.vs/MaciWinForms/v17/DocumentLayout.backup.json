@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\1 MaciLaci\\1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{178B509D-8C00-45C6-99F9-4D85E60D1679}|MaciWinForms\\MaciWinForms.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\1 macilaci\\1\\maciwinforms\\maciview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{178B509D-8C00-45C6-99F9-4D85E60D1679}|MaciWinForms\\MaciWinForms.csproj|solutionrelative:maciwinforms\\maciview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46362A37-E947-4909-91D8-DB96C29CE5D1}|MaciModel\\MaciModel.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\1 macilaci\\1\\macimodel\\model\\macigamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46362A37-E947-4909-91D8-DB96C29CE5D1}|MaciModel\\MaciModel.csproj|solutionrelative:macimodel\\model\\macigamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{178B509D-8C00-45C6-99F9-4D85E60D1679}|MaciWinForms\\MaciWinForms.csproj|D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\1 MaciLaci\\1\\maciwinforms\\maciview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{178B509D-8C00-45C6-99F9-4D85E60D1679}|MaciWinForms\\MaciWinForms.csproj|solutionrelative:maciwinforms\\maciview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{178B509D-8C00-45C6-99F9-4D85E60D1679}|MaciWinForms\\MaciWinForms.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\1 macilaci\\1\\maciwinforms\\maciview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{178B509D-8C00-45C6-99F9-4D85E60D1679}|MaciWinForms\\MaciWinForms.csproj|solutionrelative:maciwinforms\\maciview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MaciView.Designer.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\1 MaciLaci\\1\\MaciWinForms\\MaciView.Designer.cs",
+              "RelativeDocumentMoniker": "MaciWinForms\\MaciView.Designer.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\1 MaciLaci\\1\\MaciWinForms\\MaciView.Designer.cs",
+              "RelativeToolTip": "MaciWinForms\\MaciView.Designer.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAArwIsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T16:43:44.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MaciGameModel.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\1 MaciLaci\\1\\MaciModel\\Model\\MaciGameModel.cs",
+              "RelativeDocumentMoniker": "MaciModel\\Model\\MaciGameModel.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\1 MaciLaci\\1\\MaciModel\\Model\\MaciGameModel.cs",
+              "RelativeToolTip": "MaciModel\\Model\\MaciGameModel.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAALgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T16:41:48.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MaciView.cs [Design]",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\1 MaciLaci\\1\\MaciWinForms\\MaciView.cs",
+              "RelativeDocumentMoniker": "MaciWinForms\\MaciView.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\1 MaciLaci\\1\\MaciWinForms\\MaciView.cs [Design]",
+              "RelativeToolTip": "MaciWinForms\\MaciView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T14:05:31.987Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MaciView.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\1 MaciLaci\\1\\MaciWinForms\\MaciView.cs",
+              "RelativeDocumentMoniker": "MaciWinForms\\MaciView.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\1 MaciLaci\\1\\MaciWinForms\\MaciView.cs",
+              "RelativeToolTip": "MaciWinForms\\MaciView.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwGcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T21:07:13.669Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BlackHoleModel.Model.GameModel">
+    <Position X="5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAGAgKAAgAAAAgCAAEQIYAAAAAEAACAEIAAAAAqCAAA=</HashCode>
+      <FileName>Model\GameModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BlackHoleModel.Model.BlackHoleEventArgs">
+    <Position X="1.75" Y="5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAACAAA=</HashCode>
+      <FileName>Model\BlackHoleEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BlackHoleModel.Persistence.Table">
+    <Position X="7.25" Y="1.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="BlackHoleModel.Persistence.Table.Players" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Persistence\Table.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAQCAAAAJCAAEBBxAAAAAIAAAAQIhAAA=</HashCode>
+      <FileName>Persistence\Table.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BlackHoleModel.Persistence.BlackHoleDataException">
+    <Position X="10" Y="7.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Persistence\BlackHoleDataException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BlackHoleModel.Persistence.BlackHoleFileDataAccess">
+    <Position X="3.5" Y="8.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Persistence\BlackHoleFileDataAccess.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="BlackHoleModel.Persistence.IBlackHoleDataAccess">
+    <Position X="7" Y="7.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Persistence\IBlackHoleDataAccess.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

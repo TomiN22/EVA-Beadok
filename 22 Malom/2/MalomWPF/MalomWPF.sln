@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MalomWPF", "MalomWPF.csproj", "{307E7B6D-E275-4251-9AA5-00F1FEA30F8B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MalomModel", "..\MalomModel\MalomModel.csproj", "{C3835F16-157A-4A44-9E6A-0F06F58F62FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{307E7B6D-E275-4251-9AA5-00F1FEA30F8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{307E7B6D-E275-4251-9AA5-00F1FEA30F8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{307E7B6D-E275-4251-9AA5-00F1FEA30F8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{307E7B6D-E275-4251-9AA5-00F1FEA30F8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3835F16-157A-4A44-9E6A-0F06F58F62FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3835F16-157A-4A44-9E6A-0F06F58F62FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3835F16-157A-4A44-9E6A-0F06F58F62FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3835F16-157A-4A44-9E6A-0F06F58F62FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2ED6F9F-333D-469F-BFD4-30EE70A67B46}
+	EndGlobalSection
+EndGlobal

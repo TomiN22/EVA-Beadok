@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "XkUie0dOM50=",
+  "success": true,
+  "projectFilePath": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\8 Aszteroidak\\2\\AsteroidsWPF\\AsteroidsWPF\\AsteroidsWPF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nadas\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\nadas\\.nuget\\packages\\moq\\4.20.70\\moq.4.20.70.nupkg.sha512",
+    "C:\\Users\\nadas\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

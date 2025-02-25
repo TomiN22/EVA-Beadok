@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\18\\3\\RobotMalacMaui\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79426D7D-4AC3-4DA0-8A35-AB9CA55D5BDC}|..\\RobotmalacModel\\RobotmalacModel.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\18\\3\\robotmalacmodel\\persistence\\irobotfiledataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FFB3192-D53A-4C3F-967C-2BE02F7CDA2E}|RobotMalacMaui.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\18\\3\\robotmalacmaui\\viewmodel\\robotmalacviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FFB3192-D53A-4C3F-967C-2BE02F7CDA2E}|RobotMalacMaui.csproj|solutionrelative:viewmodel\\robotmalacviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FFB3192-D53A-4C3F-967C-2BE02F7CDA2E}|RobotMalacMaui.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\18\\3\\robotmalacmaui\\view\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4FFB3192-D53A-4C3F-967C-2BE02F7CDA2E}|RobotMalacMaui.csproj|solutionrelative:view\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FFB3192-D53A-4C3F-967C-2BE02F7CDA2E}|RobotMalacMaui.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\18\\3\\robotmalacmaui\\view\\loadgamepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4FFB3192-D53A-4C3F-967C-2BE02F7CDA2E}|RobotMalacMaui.csproj|solutionrelative:view\\loadgamepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FFB3192-D53A-4C3F-967C-2BE02F7CDA2E}|RobotMalacMaui.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\18\\3\\robotmalacmaui\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FFB3192-D53A-4C3F-967C-2BE02F7CDA2E}|RobotMalacMaui.csproj|solutionrelative:appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FFB3192-D53A-4C3F-967C-2BE02F7CDA2E}|RobotMalacMaui.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\18\\3\\robotmalacmaui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FFB3192-D53A-4C3F-967C-2BE02F7CDA2E}|RobotMalacMaui.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FFB3192-D53A-4C3F-967C-2BE02F7CDA2E}|RobotMalacMaui.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\18\\3\\robotmalacmaui\\viewmodel\\storedgamebrowserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FFB3192-D53A-4C3F-967C-2BE02F7CDA2E}|RobotMalacMaui.csproj|solutionrelative:viewmodel\\storedgamebrowserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FFB3192-D53A-4C3F-967C-2BE02F7CDA2E}|RobotMalacMaui.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\18\\3\\robotmalacmaui\\viewmodel\\robotmalacfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FFB3192-D53A-4C3F-967C-2BE02F7CDA2E}|RobotMalacMaui.csproj|solutionrelative:viewmodel\\robotmalacfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FFB3192-D53A-4C3F-967C-2BE02F7CDA2E}|RobotMalacMaui.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\18\\3\\robotmalacmaui\\view\\settingspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4FFB3192-D53A-4C3F-967C-2BE02F7CDA2E}|RobotMalacMaui.csproj|solutionrelative:view\\settingspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FFB3192-D53A-4C3F-967C-2BE02F7CDA2E}|RobotMalacMaui.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\18\\3\\robotmalacmaui\\view\\savegamepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4FFB3192-D53A-4C3F-967C-2BE02F7CDA2E}|RobotMalacMaui.csproj|solutionrelative:view\\savegamepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IRobotFileDataAccess.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\18\\3\\RobotmalacModel\\Persistence\\IRobotFileDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\RobotmalacModel\\Persistence\\IRobotFileDataAccess.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\18\\3\\RobotmalacModel\\Persistence\\IRobotFileDataAccess.cs",
+              "RelativeToolTip": "..\\RobotmalacModel\\Persistence\\IRobotFileDataAccess.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAYwDQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T12:27:35.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RobotMalacViewModel.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\18\\3\\RobotMalacMaui\\ViewModel\\RobotMalacViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\RobotMalacViewModel.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\18\\3\\RobotMalacMaui\\ViewModel\\RobotMalacViewModel.cs",
+              "RelativeToolTip": "ViewModel\\RobotMalacViewModel.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T12:27:35.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StoredGameBrowserViewModel.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\18\\3\\RobotMalacMaui\\ViewModel\\StoredGameBrowserViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\StoredGameBrowserViewModel.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\18\\3\\RobotMalacMaui\\ViewModel\\StoredGameBrowserViewModel.cs",
+              "RelativeToolTip": "ViewModel\\StoredGameBrowserViewModel.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T12:27:35.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SettingsPage.xaml",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\18\\3\\RobotMalacMaui\\View\\SettingsPage.xaml",
+              "RelativeDocumentMoniker": "View\\SettingsPage.xaml",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\18\\3\\RobotMalacMaui\\View\\SettingsPage.xaml",
+              "RelativeToolTip": "View\\SettingsPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-30T12:27:35.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RobotMalacField.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\18\\3\\RobotMalacMaui\\ViewModel\\RobotMalacField.cs",
+              "RelativeDocumentMoniker": "ViewModel\\RobotMalacField.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\18\\3\\RobotMalacMaui\\ViewModel\\RobotMalacField.cs",
+              "RelativeToolTip": "ViewModel\\RobotMalacField.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T12:27:35.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\18\\3\\RobotMalacMaui\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "AppShell.xaml.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\18\\3\\RobotMalacMaui\\AppShell.xaml.cs",
+              "RelativeToolTip": "AppShell.xaml.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAYwF8AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T12:27:35.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\18\\3\\RobotMalacMaui\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\18\\3\\RobotMalacMaui\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAYwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T12:27:35.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\18\\3\\RobotMalacMaui\\View\\MainPage.xaml",
+              "RelativeDocumentMoniker": "View\\MainPage.xaml",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\18\\3\\RobotMalacMaui\\View\\MainPage.xaml",
+              "RelativeToolTip": "View\\MainPage.xaml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAuwC0AAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-30T12:27:35.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoadGamePage.xaml",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\18\\3\\RobotMalacMaui\\View\\LoadGamePage.xaml",
+              "RelativeDocumentMoniker": "View\\LoadGamePage.xaml",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\18\\3\\RobotMalacMaui\\View\\LoadGamePage.xaml",
+              "RelativeToolTip": "View\\LoadGamePage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-30T12:27:35.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SaveGamePage.xaml",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\18\\3\\RobotMalacMaui\\View\\SaveGamePage.xaml",
+              "RelativeDocumentMoniker": "View\\SaveGamePage.xaml",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\18\\3\\RobotMalacMaui\\View\\SaveGamePage.xaml",
+              "RelativeToolTip": "View\\SaveGamePage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-30T12:27:36.013Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

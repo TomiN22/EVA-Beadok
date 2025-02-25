@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BekeritesWpf", "BekeritesWpf.csproj", "{827DC5E5-83F2-495D-8CF3-992D0BAE6257}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RobotmalacModel", "..\RobotmalacModel\RobotmalacModel.csproj", "{B2DE3F76-F390-4681-9DEE-0EA674969154}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{827DC5E5-83F2-495D-8CF3-992D0BAE6257}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{827DC5E5-83F2-495D-8CF3-992D0BAE6257}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{827DC5E5-83F2-495D-8CF3-992D0BAE6257}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{827DC5E5-83F2-495D-8CF3-992D0BAE6257}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2DE3F76-F390-4681-9DEE-0EA674969154}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2DE3F76-F390-4681-9DEE-0EA674969154}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2DE3F76-F390-4681-9DEE-0EA674969154}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2DE3F76-F390-4681-9DEE-0EA674969154}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1AEAA670-2D85-4343-B67C-DDBFABB27A1D}
+	EndGlobalSection
+EndGlobal

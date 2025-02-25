@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BombazoWinForms", "BombazoWinForms\BombazoWinForms.csproj", "{DCFE2722-F380-48BA-89A6-14C757390738}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BombazoModel", "..\BombazoModel\BombazoModel.csproj", "{B34684E8-ED30-4D94-9F19-F8CF2DE39745}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCFE2722-F380-48BA-89A6-14C757390738}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCFE2722-F380-48BA-89A6-14C757390738}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCFE2722-F380-48BA-89A6-14C757390738}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCFE2722-F380-48BA-89A6-14C757390738}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B34684E8-ED30-4D94-9F19-F8CF2DE39745}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B34684E8-ED30-4D94-9F19-F8CF2DE39745}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B34684E8-ED30-4D94-9F19-F8CF2DE39745}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B34684E8-ED30-4D94-9F19-F8CF2DE39745}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECC0955B-698B-458B-9A57-5EBB30AB9791}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\10 Aknamezo\\2\\AknamezoWPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3DE4137-5795-4392-AEC2-7967B7BE3F53}|AknamezoWPF\\AknamezoWPF.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\10 aknamezo\\2\\aknamezowpf\\aknamezowpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3DE4137-5795-4392-AEC2-7967B7BE3F53}|AknamezoWPF\\AknamezoWPF.csproj|solutionrelative:aknamezowpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DB56E4-14F2-4D90-98BB-7C916CCC3A42}|..\\AknamezoModel\\AknamezoModel.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\10 aknamezo\\2\\aknamezomodel\\model\\gamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3DE4137-5795-4392-AEC2-7967B7BE3F53}|AknamezoWPF\\AknamezoWPF.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\10 aknamezo\\2\\aknamezowpf\\aknamezowpf\\viewmodel\\aviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3DE4137-5795-4392-AEC2-7967B7BE3F53}|AknamezoWPF\\AknamezoWPF.csproj|solutionrelative:aknamezowpf\\viewmodel\\aviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DB56E4-14F2-4D90-98BB-7C916CCC3A42}|..\\AknamezoModel\\AknamezoModel.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\10 aknamezo\\2\\aknamezomodel\\model\\meteor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3DE4137-5795-4392-AEC2-7967B7BE3F53}|AknamezoWPF\\AknamezoWPF.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\10 aknamezo\\2\\aknamezowpf\\aknamezowpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C3DE4137-5795-4392-AEC2-7967B7BE3F53}|AknamezoWPF\\AknamezoWPF.csproj|solutionrelative:aknamezowpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Meteor.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\10 Aknamezo\\2\\AknamezoModel\\Model\\Meteor.cs",
+              "RelativeDocumentMoniker": "..\\AknamezoModel\\Model\\Meteor.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\10 Aknamezo\\2\\AknamezoModel\\Model\\Meteor.cs",
+              "RelativeToolTip": "..\\AknamezoModel\\Model\\Meteor.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAiwC8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T14:12:28.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AViewModel.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\10 Aknamezo\\2\\AknamezoWPF\\AknamezoWPF\\ViewModel\\AViewModel.cs",
+              "RelativeDocumentMoniker": "AknamezoWPF\\ViewModel\\AViewModel.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\10 Aknamezo\\2\\AknamezoWPF\\AknamezoWPF\\ViewModel\\AViewModel.cs",
+              "RelativeToolTip": "AknamezoWPF\\ViewModel\\AViewModel.cs",
+              "ViewState": "AgIAAAsBAAAAAAAAAAAlwCEBAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T15:59:13.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameModel.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\10 Aknamezo\\2\\AknamezoModel\\Model\\GameModel.cs",
+              "RelativeDocumentMoniker": "..\\AknamezoModel\\Model\\GameModel.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\10 Aknamezo\\2\\AknamezoModel\\Model\\GameModel.cs",
+              "RelativeToolTip": "..\\AknamezoModel\\Model\\GameModel.cs",
+              "ViewState": "AgIAADEBAAAAAAAAAAAowD8BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T15:51:52.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\10 Aknamezo\\2\\AknamezoWPF\\AknamezoWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "AknamezoWPF\\MainWindow.xaml",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\10 Aknamezo\\2\\AknamezoWPF\\AknamezoWPF\\MainWindow.xaml",
+              "RelativeToolTip": "AknamezoWPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-13T23:13:43.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\10 Aknamezo\\2\\AknamezoWPF\\AknamezoWPF\\App.xaml.cs",
+              "RelativeDocumentMoniker": "AknamezoWPF\\App.xaml.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\10 Aknamezo\\2\\AknamezoWPF\\AknamezoWPF\\App.xaml.cs",
+              "RelativeToolTip": "AknamezoWPF\\App.xaml.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAiwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T15:56:24.509Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

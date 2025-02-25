@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LopakodoWPF", "LopakodoWPF.csproj", "{0202CCC4-B794-46A2-806D-3CF93AB7A47C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LopakodoModel", "..\LopakodoModel\LopakodoModel.csproj", "{0F4FFF12-0640-421D-97D8-9CAC6DE796E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0202CCC4-B794-46A2-806D-3CF93AB7A47C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0202CCC4-B794-46A2-806D-3CF93AB7A47C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0202CCC4-B794-46A2-806D-3CF93AB7A47C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0202CCC4-B794-46A2-806D-3CF93AB7A47C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F4FFF12-0640-421D-97D8-9CAC6DE796E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F4FFF12-0640-421D-97D8-9CAC6DE796E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F4FFF12-0640-421D-97D8-9CAC6DE796E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F4FFF12-0640-421D-97D8-9CAC6DE796E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37E03CA7-8C66-4C5F-9984-1F8C1EF6534E}
+	EndGlobalSection
+EndGlobal

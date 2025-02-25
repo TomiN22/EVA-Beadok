@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\8 Aszteroidak\\1\\AsteroidsWinForms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37E67622-1910-464F-9F24-D0D53291BD21}|AsteroidsWinForms\\AsteroidsWinForms.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\8 aszteroidak\\1\\asteroidswinforms\\asteroidswinforms\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37E67622-1910-464F-9F24-D0D53291BD21}|AsteroidsWinForms\\AsteroidsWinForms.csproj|solutionrelative:asteroidswinforms\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89BEA890-1F5A-4450-B48F-8C3FAD23FBE7}|..\\AsteroidsModel\\AsteroidsModel.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\8 aszteroidak\\1\\asteroidsmodel\\model\\gamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37E67622-1910-464F-9F24-D0D53291BD21}|AsteroidsWinForms\\AsteroidsWinForms.csproj|D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\8 Aszteroidak\\1\\AsteroidsWinForms\\asteroidswinforms\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{37E67622-1910-464F-9F24-D0D53291BD21}|AsteroidsWinForms\\AsteroidsWinForms.csproj|solutionrelative:asteroidswinforms\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89BEA890-1F5A-4450-B48F-8C3FAD23FBE7}|..\\AsteroidsModel\\AsteroidsModel.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\8 aszteroidak\\1\\asteroidsmodel\\persistence\\asteroidsfiledataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89BEA890-1F5A-4450-B48F-8C3FAD23FBE7}|..\\AsteroidsModel\\AsteroidsModel.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\8 aszteroidak\\1\\asteroidsmodel\\persistence\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89BEA890-1F5A-4450-B48F-8C3FAD23FBE7}|..\\AsteroidsModel\\AsteroidsModel.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\8 aszteroidak\\1\\asteroidsmodel\\model\\meteor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Table.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\8 Aszteroidak\\1\\AsteroidsModel\\Persistence\\Table.cs",
+              "RelativeDocumentMoniker": "..\\AsteroidsModel\\Persistence\\Table.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\8 Aszteroidak\\1\\AsteroidsModel\\Persistence\\Table.cs",
+              "RelativeToolTip": "..\\AsteroidsModel\\Persistence\\Table.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T14:31:31.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Meteor.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\8 Aszteroidak\\1\\AsteroidsModel\\Model\\Meteor.cs",
+              "RelativeDocumentMoniker": "..\\AsteroidsModel\\Model\\Meteor.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\8 Aszteroidak\\1\\AsteroidsModel\\Model\\Meteor.cs",
+              "RelativeToolTip": "..\\AsteroidsModel\\Model\\Meteor.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAjwDAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T22:16:49.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameModel.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\8 Aszteroidak\\1\\AsteroidsModel\\Model\\GameModel.cs",
+              "RelativeDocumentMoniker": "..\\AsteroidsModel\\Model\\GameModel.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\8 Aszteroidak\\1\\AsteroidsModel\\Model\\GameModel.cs",
+              "RelativeToolTip": "..\\AsteroidsModel\\Model\\GameModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T21:59:09.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AsteroidsFileDataAccess.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\8 Aszteroidak\\1\\AsteroidsModel\\Persistence\\AsteroidsFileDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\AsteroidsModel\\Persistence\\AsteroidsFileDataAccess.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\8 Aszteroidak\\1\\AsteroidsModel\\Persistence\\AsteroidsFileDataAccess.cs",
+              "RelativeToolTip": "..\\AsteroidsModel\\Persistence\\AsteroidsFileDataAccess.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwDwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T21:59:37.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\8 Aszteroidak\\1\\AsteroidsWinForms\\AsteroidsWinForms\\Form.cs",
+              "RelativeDocumentMoniker": "AsteroidsWinForms\\Form.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\8 Aszteroidak\\1\\AsteroidsWinForms\\AsteroidsWinForms\\Form.cs",
+              "RelativeToolTip": "AsteroidsWinForms\\Form.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T20:57:30.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form.cs [Design]",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\8 Aszteroidak\\1\\AsteroidsWinForms\\AsteroidsWinForms\\Form.cs",
+              "RelativeDocumentMoniker": "AsteroidsWinForms\\Form.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\8 Aszteroidak\\1\\AsteroidsWinForms\\AsteroidsWinForms\\Form.cs [Design]",
+              "RelativeToolTip": "AsteroidsWinForms\\Form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T20:57:13.564Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

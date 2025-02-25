@@ -1,0 +1,37 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="pic\greencircle.PNG" />
+    <None Remove="pic\greygreencircle.png" />
+    <None Remove="pic\greyredcircle.PNG" />
+    <None Remove="pic\redcircle.PNG" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\KameleonModel\KameleonModel.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="pic\greencircle.PNG">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="pic\greygreencircle.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="pic\greyredcircle.PNG">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="pic\redcircle.PNG">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+</Project>

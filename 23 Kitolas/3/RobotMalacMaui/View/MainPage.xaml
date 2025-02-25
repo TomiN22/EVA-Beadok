@@ -1,0 +1,65 @@
+﻿<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="RobotMalacMaui.MainPage"
+             
+             >
+
+    <Grid Margin="4" RowSpacing="8">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+        <Button Text="New Game" Command="{Binding NewGameCommand}" CommandParameter="{Binding TableSizeViewModel.TableSize}" Grid.Row="0" HorizontalOptions="Start" />
+        <Button Text="Settings" Command="{Binding ExitCommand}" Grid.Row="0" HorizontalOptions="End" />
+
+        <Grid Grid.Row="1"
+              BindableLayout.ItemsSource="{Binding Fields}"
+              RowDefinitions="{Binding RowSize}"
+              ColumnDefinitions="{Binding ColSize}"
+              ColumnSpacing="4"
+              RowSpacing="4">
+            <BindableLayout.ItemTemplate>
+                <DataTemplate>
+                    <ImageButton Grid.Row="{Binding X}"
+                                 Grid.Column="{Binding Y}"
+                                 Source="{Binding PImage}"
+                                 HeightRequest="55"
+                                 WidthRequest="65"
+                                 BackgroundColor= " White"
+                                 VerticalOptions="FillAndExpand"
+                                 HorizontalOptions="FillAndExpand" />
+                </DataTemplate>
+            </BindableLayout.ItemTemplate>
+        </Grid>
+
+        <StackLayout Grid.Row="2" Orientation="Horizontal" HorizontalOptions="FillAndExpand" VerticalOptions="CenterAndExpand">
+            <Label Text="{Binding PlayerTurnText}" IsVisible="{Binding RightColumnVisibility}" Margin="0,20,10,10"/>
+            <ImageButton Source="{Binding PlayerTurnImage}" IsVisible="{Binding RightColumnVisibility}" HeightRequest="55" WidthRequest="65" BackgroundColor= "Azure"/>
+        </StackLayout>
+
+        <StackLayout Grid.Row="3" Orientation="Horizontal" HorizontalOptions="FillAndExpand" VerticalOptions="CenterAndExpand">
+            <Label Text="Commands: " Margin="0,15,10,10" IsVisible="{Binding RightColumnVisibility}"/>
+            <Entry Placeholder="Enter Text" Text="{Binding TextCommand}" IsVisible="{Binding RightColumnVisibility}" VerticalOptions="CenterAndExpand" HorizontalOptions="FillAndExpand" />
+            <Button Text="OK" Command="{Binding OkClickedCommand}" IsVisible="{Binding RightColumnVisibility}" VerticalOptions="CenterAndExpand" HorizontalOptions="End" />
+        </StackLayout>
+
+        <StackLayout Grid.Row="4" Orientation="Horizontal" HorizontalOptions="FillAndExpand" VerticalOptions="CenterAndExpand">
+            <Label Text="Player 1 life: " VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" IsVisible="{Binding RightColumnVisibility}"/>
+            <Label x:Name="life1Label" Text="{Binding P1Hitpoints}" VerticalOptions="StartAndExpand" HorizontalOptions="End" IsVisible="{Binding RightColumnVisibility}"/>
+            <Label x:Name="life1Label3" Text="/3" VerticalOptions="StartAndExpand" HorizontalOptions="End" IsVisible="{Binding RightColumnVisibility}"/>
+            <!--<ProgressBar x:Name="p1ProgressBar" Progress="{Binding ProgressBar1Value}" VerticalOptions="CenterAndExpand" HorizontalOptions="FillAndExpand" WidthRequest="150" IsVisible="{Binding RightColumnVisibility}"/>-->
+
+            <Label Text="Player 2 life: " VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" IsVisible="{Binding RightColumnVisibility}"/>
+            <Label x:Name="life2Label" Text="{Binding P2Hitpoints}" VerticalOptions="StartAndExpand" HorizontalOptions="End" IsVisible="{Binding RightColumnVisibility}"/>
+            <Label x:Name="life2Label3" Text="/3" VerticalOptions="StartAndExpand" HorizontalOptions="End" IsVisible="{Binding RightColumnVisibility}"/>
+            <!--<ProgressBar x:Name="p2ProgressBar" Progress="{Binding ProgressBar2Value}" VerticalOptions="CenterAndExpand" HorizontalOptions="FillAndExpand" WidthRequest="150" IsVisible="{Binding RightColumnVisibility}"/>-->
+        </StackLayout>
+
+
+
+    </Grid>
+</ContentPage>

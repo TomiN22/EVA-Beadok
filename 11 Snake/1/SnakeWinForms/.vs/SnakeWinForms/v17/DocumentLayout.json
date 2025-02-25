@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\11 Snake\\1\\SnakeWinForms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56BDDA89-14A1-4C93-B037-A734067C6FBC}|..\\SnakeModel\\SnakeModel.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\11 snake\\1\\snakemodel\\model\\gamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFBF825B-BC8A-438A-B80C-46E5CC51C28F}|SnakeWinForms.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\11 snake\\1\\snakewinforms\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFBF825B-BC8A-438A-B80C-46E5CC51C28F}|SnakeWinForms.csproj|solutionrelative:form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFBF825B-BC8A-438A-B80C-46E5CC51C28F}|SnakeWinForms.csproj|D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\11 Snake\\1\\SnakeWinForms\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFBF825B-BC8A-438A-B80C-46E5CC51C28F}|SnakeWinForms.csproj|solutionrelative:form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56BDDA89-14A1-4C93-B037-A734067C6FBC}|..\\SnakeModel\\SnakeModel.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\11 snake\\1\\snakemodel\\persistence\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Table.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\11 Snake\\1\\SnakeModel\\Persistence\\Table.cs",
+              "RelativeDocumentMoniker": "..\\SnakeModel\\Persistence\\Table.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\11 Snake\\1\\SnakeModel\\Persistence\\Table.cs",
+              "RelativeToolTip": "..\\SnakeModel\\Persistence\\Table.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T19:43:53.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameModel.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\11 Snake\\1\\SnakeModel\\Model\\GameModel.cs",
+              "RelativeDocumentMoniker": "..\\SnakeModel\\Model\\GameModel.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\11 Snake\\1\\SnakeModel\\Model\\GameModel.cs",
+              "RelativeToolTip": "..\\SnakeModel\\Model\\GameModel.cs",
+              "ViewState": "AgIAALYAAAAAAAAAAAAiwMYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T16:03:22.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\11 Snake\\1\\SnakeWinForms\\Form.cs",
+              "RelativeDocumentMoniker": "Form.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\11 Snake\\1\\SnakeWinForms\\Form.cs",
+              "RelativeToolTip": "Form.cs",
+              "ViewState": "AgIAABEBAAAAAAAAAAAAACIBAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T15:36:56.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form.cs [Design]",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\11 Snake\\1\\SnakeWinForms\\Form.cs",
+              "RelativeDocumentMoniker": "Form.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\11 Snake\\1\\SnakeWinForms\\Form.cs [Design]",
+              "RelativeToolTip": "Form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T14:50:42.668Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

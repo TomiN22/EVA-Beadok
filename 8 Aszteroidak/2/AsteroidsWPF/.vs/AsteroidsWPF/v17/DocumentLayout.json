@@ -1,0 +1,144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\8 Aszteroidak\\2\\AsteroidsWPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{889A301F-756F-4241-8276-3D15B8232FB2}|..\\AsteroidsModel\\AsteroidsModel.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\8 aszteroidak\\2\\asteroidsmodel\\model\\gamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7A2B968-2C27-4B6A-B815-4B4652255D0B}|AsteroidsWPF\\AsteroidsWPF.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\8 aszteroidak\\2\\asteroidswpf\\asteroidswpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7A2B968-2C27-4B6A-B815-4B4652255D0B}|AsteroidsWPF\\AsteroidsWPF.csproj|solutionrelative:asteroidswpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7A2B968-2C27-4B6A-B815-4B4652255D0B}|AsteroidsWPF\\AsteroidsWPF.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\8 aszteroidak\\2\\asteroidswpf\\asteroidswpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C7A2B968-2C27-4B6A-B815-4B4652255D0B}|AsteroidsWPF\\AsteroidsWPF.csproj|solutionrelative:asteroidswpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{889A301F-756F-4241-8276-3D15B8232FB2}|..\\AsteroidsModel\\AsteroidsModel.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\8 aszteroidak\\2\\asteroidsmodel\\persistence\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{889A301F-756F-4241-8276-3D15B8232FB2}|..\\AsteroidsModel\\AsteroidsModel.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\8 aszteroidak\\2\\asteroidsmodel\\persistence\\asteroidsfiledataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7A2B968-2C27-4B6A-B815-4B4652255D0B}|AsteroidsWPF\\AsteroidsWPF.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\8 aszteroidak\\2\\asteroidswpf\\asteroidswpf\\viewmodel\\aviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7A2B968-2C27-4B6A-B815-4B4652255D0B}|AsteroidsWPF\\AsteroidsWPF.csproj|solutionrelative:asteroidswpf\\viewmodel\\aviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{889A301F-756F-4241-8276-3D15B8232FB2}|..\\AsteroidsModel\\AsteroidsModel.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\8 aszteroidak\\2\\asteroidsmodel\\model\\meteor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7A2B968-2C27-4B6A-B815-4B4652255D0B}|AsteroidsWPF\\AsteroidsWPF.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\8 aszteroidak\\2\\asteroidswpf\\asteroidswpf\\viewmodel\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7A2B968-2C27-4B6A-B815-4B4652255D0B}|AsteroidsWPF\\AsteroidsWPF.csproj|solutionrelative:asteroidswpf\\viewmodel\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\8 Aszteroidak\\2\\AsteroidsWPF\\AsteroidsWPF\\App.xaml.cs",
+              "RelativeDocumentMoniker": "AsteroidsWPF\\App.xaml.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\8 Aszteroidak\\2\\AsteroidsWPF\\AsteroidsWPF\\App.xaml.cs",
+              "RelativeToolTip": "AsteroidsWPF\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T17:14:17.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AViewModel.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\8 Aszteroidak\\2\\AsteroidsWPF\\AsteroidsWPF\\ViewModel\\AViewModel.cs",
+              "RelativeDocumentMoniker": "AsteroidsWPF\\ViewModel\\AViewModel.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\8 Aszteroidak\\2\\AsteroidsWPF\\AsteroidsWPF\\ViewModel\\AViewModel.cs",
+              "RelativeToolTip": "AsteroidsWPF\\ViewModel\\AViewModel.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAADwv/4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T15:10:14.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Field.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\8 Aszteroidak\\2\\AsteroidsWPF\\AsteroidsWPF\\ViewModel\\Field.cs",
+              "RelativeDocumentMoniker": "AsteroidsWPF\\ViewModel\\Field.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\8 Aszteroidak\\2\\AsteroidsWPF\\AsteroidsWPF\\ViewModel\\Field.cs",
+              "RelativeToolTip": "AsteroidsWPF\\ViewModel\\Field.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAkwF8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T15:10:06.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AsteroidsFileDataAccess.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\8 Aszteroidak\\2\\AsteroidsModel\\Persistence\\AsteroidsFileDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\AsteroidsModel\\Persistence\\AsteroidsFileDataAccess.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\8 Aszteroidak\\2\\AsteroidsModel\\Persistence\\AsteroidsFileDataAccess.cs",
+              "RelativeToolTip": "..\\AsteroidsModel\\Persistence\\AsteroidsFileDataAccess.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAQwBcAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T21:39:36.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameModel.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\8 Aszteroidak\\2\\AsteroidsModel\\Model\\GameModel.cs",
+              "RelativeDocumentMoniker": "..\\AsteroidsModel\\Model\\GameModel.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\8 Aszteroidak\\2\\AsteroidsModel\\Model\\GameModel.cs",
+              "RelativeToolTip": "..\\AsteroidsModel\\Model\\GameModel.cs",
+              "ViewState": "AgIAAO4AAAAAAAAAAAA5wP8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T21:38:22.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Meteor.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\8 Aszteroidak\\2\\AsteroidsModel\\Model\\Meteor.cs",
+              "RelativeDocumentMoniker": "..\\AsteroidsModel\\Model\\Meteor.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\8 Aszteroidak\\2\\AsteroidsModel\\Model\\Meteor.cs",
+              "RelativeToolTip": "..\\AsteroidsModel\\Model\\Meteor.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T21:21:39.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Table.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\8 Aszteroidak\\2\\AsteroidsModel\\Persistence\\Table.cs",
+              "RelativeDocumentMoniker": "..\\AsteroidsModel\\Persistence\\Table.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\8 Aszteroidak\\2\\AsteroidsModel\\Persistence\\Table.cs",
+              "RelativeToolTip": "..\\AsteroidsModel\\Persistence\\Table.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T21:40:20.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\8 Aszteroidak\\2\\AsteroidsWPF\\AsteroidsWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "AsteroidsWPF\\MainWindow.xaml",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\8 Aszteroidak\\2\\AsteroidsWPF\\AsteroidsWPF\\MainWindow.xaml",
+              "RelativeToolTip": "AsteroidsWPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-10T20:59:13.22Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

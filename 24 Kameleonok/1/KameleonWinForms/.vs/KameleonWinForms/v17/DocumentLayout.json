@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\24 Kameleonok\\1\\KameleonWinForms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1664A17D-BFC9-4405-87A7-517C5A4E01C8}|..\\KameleonModel\\KameleonModel.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\24 kameleonok\\1\\kameleonmodel\\model\\gamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1FAC721-7A8A-4156-84AA-4B170E461341}|KameleonWinForms.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\24 kameleonok\\1\\kameleonwinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1FAC721-7A8A-4156-84AA-4B170E461341}|KameleonWinForms.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1FAC721-7A8A-4156-84AA-4B170E461341}|KameleonWinForms.csproj|D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\24 Kameleonok\\1\\KameleonWinForms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E1FAC721-7A8A-4156-84AA-4B170E461341}|KameleonWinForms.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameModel.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\24 Kameleonok\\1\\KameleonModel\\Model\\GameModel.cs",
+              "RelativeDocumentMoniker": "..\\KameleonModel\\Model\\GameModel.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\24 Kameleonok\\1\\KameleonModel\\Model\\GameModel.cs",
+              "RelativeToolTip": "..\\KameleonModel\\Model\\GameModel.cs",
+              "ViewState": "AgIAAFgBAAAAAAAAAAAAAGwBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T18:36:14.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\24 Kameleonok\\1\\KameleonWinForms\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\24 Kameleonok\\1\\KameleonWinForms\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAoBAAAAAAAAAAAAAA8BAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T23:41:11.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\24 Kameleonok\\1\\KameleonWinForms\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\24 Kameleonok\\1\\KameleonWinForms\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T23:39:20.957Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

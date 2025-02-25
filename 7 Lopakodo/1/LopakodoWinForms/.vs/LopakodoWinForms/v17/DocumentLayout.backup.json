@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\7 Lopakodo\\1\\LopakodoWinForms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD334BA4-2BC8-4A2C-80DD-7E35E3D515A3}|LopakodoWinForms.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\7 lopakodo\\1\\lopakodowinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD334BA4-2BC8-4A2C-80DD-7E35E3D515A3}|LopakodoWinForms.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B109542-A170-4029-A3CD-991EA93E2FC2}|..\\LopakodoModel\\LopakodoModel.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\7 lopakodo\\1\\lopakodomodel\\model\\gamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD334BA4-2BC8-4A2C-80DD-7E35E3D515A3}|LopakodoWinForms.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\7 lopakodo\\1\\lopakodowinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD334BA4-2BC8-4A2C-80DD-7E35E3D515A3}|LopakodoWinForms.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD334BA4-2BC8-4A2C-80DD-7E35E3D515A3}|LopakodoWinForms.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\7 lopakodo\\1\\lopakodowinforms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD334BA4-2BC8-4A2C-80DD-7E35E3D515A3}|LopakodoWinForms.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameModel.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\7 Lopakodo\\1\\LopakodoModel\\Model\\GameModel.cs",
+              "RelativeDocumentMoniker": "..\\LopakodoModel\\Model\\GameModel.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\7 Lopakodo\\1\\LopakodoModel\\Model\\GameModel.cs",
+              "RelativeToolTip": "..\\LopakodoModel\\Model\\GameModel.cs",
+              "ViewState": "AgIAACkBAAAAAAAAAAASwEYBAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T23:11:58.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\7 Lopakodo\\1\\LopakodoWinForms\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\7 Lopakodo\\1\\LopakodoWinForms\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAYwIkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T22:26:27.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\7 Lopakodo\\1\\LopakodoWinForms\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\7 Lopakodo\\1\\LopakodoWinForms\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAADgv3EAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T22:19:30.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\7 Lopakodo\\1\\LopakodoWinForms\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\7 Lopakodo\\1\\LopakodoWinForms\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T21:53:42.867Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

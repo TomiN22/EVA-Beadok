@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\3 Elszabadult robot\\1\\LooseRobotWinForms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26DBB7D8-8FED-4863-BCA6-325F26F7D1F7}|..\\LooseRobotModel\\LooseRobotModel.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\3 elszabadult robot\\1\\looserobotmodel\\model\\gamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F0BB8FE-68C3-46EB-8400-144A6ABDFD22}|LooseRobotWinForms\\LooseRobotWinForms.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\3 elszabadult robot\\1\\looserobotwinforms\\looserobotwinforms\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F0BB8FE-68C3-46EB-8400-144A6ABDFD22}|LooseRobotWinForms\\LooseRobotWinForms.csproj|solutionrelative:looserobotwinforms\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F0BB8FE-68C3-46EB-8400-144A6ABDFD22}|LooseRobotWinForms\\LooseRobotWinForms.csproj|D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\3 Elszabadult robot\\1\\LooseRobotWinForms\\looserobotwinforms\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8F0BB8FE-68C3-46EB-8400-144A6ABDFD22}|LooseRobotWinForms\\LooseRobotWinForms.csproj|solutionrelative:looserobotwinforms\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DBB7D8-8FED-4863-BCA6-325F26F7D1F7}|..\\LooseRobotModel\\LooseRobotModel.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\3 elszabadult robot\\1\\looserobotmodel\\persistence\\looserobotfiledataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DBB7D8-8FED-4863-BCA6-325F26F7D1F7}|..\\LooseRobotModel\\LooseRobotModel.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\3 elszabadult robot\\1\\looserobotmodel\\persistence\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LooseRobotFileDataAccess.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\3 Elszabadult robot\\1\\LooseRobotModel\\Persistence\\LooseRobotFileDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\LooseRobotModel\\Persistence\\LooseRobotFileDataAccess.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\3 Elszabadult robot\\1\\LooseRobotModel\\Persistence\\LooseRobotFileDataAccess.cs",
+              "RelativeToolTip": "..\\LooseRobotModel\\Persistence\\LooseRobotFileDataAccess.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T22:00:04.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Table.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\3 Elszabadult robot\\1\\LooseRobotModel\\Persistence\\Table.cs",
+              "RelativeDocumentMoniker": "..\\LooseRobotModel\\Persistence\\Table.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\3 Elszabadult robot\\1\\LooseRobotModel\\Persistence\\Table.cs",
+              "RelativeToolTip": "..\\LooseRobotModel\\Persistence\\Table.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T21:15:39.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameModel.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\3 Elszabadult robot\\1\\LooseRobotModel\\Model\\GameModel.cs",
+              "RelativeDocumentMoniker": "..\\LooseRobotModel\\Model\\GameModel.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\3 Elszabadult robot\\1\\LooseRobotModel\\Model\\GameModel.cs",
+              "RelativeToolTip": "..\\LooseRobotModel\\Model\\GameModel.cs",
+              "ViewState": "AgIAAOgAAAAAAAAAAAAqwPcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T21:10:44.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\3 Elszabadult robot\\1\\LooseRobotWinForms\\LooseRobotWinForms\\Form.cs",
+              "RelativeDocumentMoniker": "LooseRobotWinForms\\Form.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\3 Elszabadult robot\\1\\LooseRobotWinForms\\LooseRobotWinForms\\Form.cs",
+              "RelativeToolTip": "LooseRobotWinForms\\Form.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwDUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T21:02:17.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form.cs [Design]",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\3 Elszabadult robot\\1\\LooseRobotWinForms\\LooseRobotWinForms\\Form.cs",
+              "RelativeDocumentMoniker": "LooseRobotWinForms\\Form.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\3 Elszabadult robot\\1\\LooseRobotWinForms\\LooseRobotWinForms\\Form.cs [Design]",
+              "RelativeToolTip": "LooseRobotWinForms\\Form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T20:49:10.975Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\18 Vadaszat\\1\\RobotmalacWinForms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\18\\1\\RobotmalacModel\\Persistence\\IRobotFileDataAccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4876C92-75BB-4682-9639-B84272D21012}|Skelton1WinForms.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\18 vadaszat\\1\\robotmalacwinforms\\robotmalacview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4876C92-75BB-4682-9639-B84272D21012}|Skelton1WinForms.csproj|solutionrelative:robotmalacview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4876C92-75BB-4682-9639-B84272D21012}|Skelton1WinForms.csproj|D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\18 Vadaszat\\1\\RobotmalacWinForms\\robotmalacview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4876C92-75BB-4682-9639-B84272D21012}|Skelton1WinForms.csproj|solutionrelative:robotmalacview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4876C92-75BB-4682-9639-B84272D21012}|Skelton1WinForms.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\18 vadaszat\\1\\robotmalacwinforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4876C92-75BB-4682-9639-B84272D21012}|Skelton1WinForms.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\18\\1\\RobotmalacModel\\Persistence\\RobotDataException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\18\\1\\RobotmalacModel\\Persistence\\IRobotDataAccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\18\\1\\RobotmalacModel\\RobotmalacModel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\18\\1\\RobotmalacModel\\Model\\RobotEventArgs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\18\\1\\RobotmalacModel\\Model\\RobotModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\18\\1\\RobotmalacModel\\Persistence\\RobotTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RobotDataException.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\18\\1\\RobotmalacModel\\Persistence\\RobotDataException.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\18\\1\\RobotmalacModel\\Persistence\\RobotDataException.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\18\\1\\RobotmalacModel\\Persistence\\RobotDataException.cs",
+              "RelativeToolTip": "..\\..\\..\\18\\1\\RobotmalacModel\\Persistence\\RobotDataException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T12:18:39.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IRobotFileDataAccess.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\18\\1\\RobotmalacModel\\Persistence\\IRobotFileDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\18\\1\\RobotmalacModel\\Persistence\\IRobotFileDataAccess.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\18\\1\\RobotmalacModel\\Persistence\\IRobotFileDataAccess.cs",
+              "RelativeToolTip": "..\\..\\..\\18\\1\\RobotmalacModel\\Persistence\\IRobotFileDataAccess.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T12:18:39.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRobotDataAccess.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\18\\1\\RobotmalacModel\\Persistence\\IRobotDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\18\\1\\RobotmalacModel\\Persistence\\IRobotDataAccess.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\18\\1\\RobotmalacModel\\Persistence\\IRobotDataAccess.cs",
+              "RelativeToolTip": "..\\..\\..\\18\\1\\RobotmalacModel\\Persistence\\IRobotDataAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T12:18:39.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\18 Vadaszat\\1\\RobotmalacWinForms\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\18 Vadaszat\\1\\RobotmalacWinForms\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T12:18:39.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RobotMalacView.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\18 Vadaszat\\1\\RobotmalacWinForms\\RobotMalacView.cs",
+              "RelativeDocumentMoniker": "RobotMalacView.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\18 Vadaszat\\1\\RobotmalacWinForms\\RobotMalacView.cs",
+              "RelativeToolTip": "RobotMalacView.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-06-30T12:18:39.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RobotMalacView.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\18 Vadaszat\\1\\RobotmalacWinForms\\RobotMalacView.cs",
+              "RelativeDocumentMoniker": "RobotMalacView.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\18 Vadaszat\\1\\RobotmalacWinForms\\RobotMalacView.cs",
+              "RelativeToolTip": "RobotMalacView.cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAAD4v54AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T12:18:39.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RobotmalacModel.csproj",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\18\\1\\RobotmalacModel\\RobotmalacModel.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\18\\1\\RobotmalacModel\\RobotmalacModel.csproj",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\18\\1\\RobotmalacModel\\RobotmalacModel.csproj",
+              "RelativeToolTip": "..\\..\\..\\18\\1\\RobotmalacModel\\RobotmalacModel.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-30T12:18:39.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RobotEventArgs.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\18\\1\\RobotmalacModel\\Model\\RobotEventArgs.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\18\\1\\RobotmalacModel\\Model\\RobotEventArgs.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\18\\1\\RobotmalacModel\\Model\\RobotEventArgs.cs",
+              "RelativeToolTip": "..\\..\\..\\18\\1\\RobotmalacModel\\Model\\RobotEventArgs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T12:18:41.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RobotModel.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\18\\1\\RobotmalacModel\\Model\\RobotModel.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\18\\1\\RobotmalacModel\\Model\\RobotModel.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\18\\1\\RobotmalacModel\\Model\\RobotModel.cs",
+              "RelativeToolTip": "..\\..\\..\\18\\1\\RobotmalacModel\\Model\\RobotModel.cs",
+              "ViewState": "AQIAAKwAAAAAAAAAAAAkwL0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T12:18:41.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RobotTable.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\18\\1\\RobotmalacModel\\Persistence\\RobotTable.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\18\\1\\RobotmalacModel\\Persistence\\RobotTable.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\18\\1\\RobotmalacModel\\Persistence\\RobotTable.cs",
+              "RelativeToolTip": "..\\..\\..\\18\\1\\RobotmalacModel\\Persistence\\RobotTable.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAkwD4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T12:18:41.999Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

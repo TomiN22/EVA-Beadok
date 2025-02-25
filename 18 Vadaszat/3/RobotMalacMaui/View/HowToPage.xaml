@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="RobotMalacMaui.View.HowToPage"
+             Title="HowToPage">
+    <VerticalStackLayout Spacing="8" Margin="4" HorizontalOptions="CenterAndExpand">
+        <Label 
+            FontSize="20"
+            Text="Move commands: 'move left', 'move right', 'move up' and 'move down'." 
+            VerticalOptions="Center" 
+            HorizontalOptions="Center"/>
+        <Label
+            FontSize="20"
+            Text="Turn with: 'turn left' or 'turn right'."
+            VerticalOptions="Center" 
+            HorizontalOptions="Center"/>
+        <Label 
+            FontSize="20"
+            Text="Attack using the 'shoot' or 'punch'. The 'shoot' has a greater precedency."
+            VerticalOptions="Center" 
+            HorizontalOptions="Center"/>
+    </VerticalStackLayout>
+</ContentPage>

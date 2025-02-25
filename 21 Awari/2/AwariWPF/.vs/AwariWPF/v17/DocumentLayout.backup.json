@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\21 Awari\\2\\AwariWPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2C4854D-A2A9-4D76-9BFF-DF4EC801F287}|AwariWPF.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\21 awari\\2\\awariwpf\\viewmodel\\dviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2C4854D-A2A9-4D76-9BFF-DF4EC801F287}|AwariWPF.csproj|solutionrelative:viewmodel\\dviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFBDAFA-9A4D-4258-9392-F3F1101099F8}|..\\AwariModel\\AwariModel.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\21 awari\\2\\awarimodel\\persistence\\awarifiledataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFBDAFA-9A4D-4258-9392-F3F1101099F8}|..\\AwariModel\\AwariModel.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\21 awari\\2\\awarimodel\\model\\gamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2C4854D-A2A9-4D76-9BFF-DF4EC801F287}|AwariWPF.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\21 awari\\2\\awariwpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2C4854D-A2A9-4D76-9BFF-DF4EC801F287}|AwariWPF.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFBDAFA-9A4D-4258-9392-F3F1101099F8}|..\\AwariModel\\AwariModel.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\21 awari\\2\\awarimodel\\persistence\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2C4854D-A2A9-4D76-9BFF-DF4EC801F287}|AwariWPF.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\21 awari\\2\\awariwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F2C4854D-A2A9-4D76-9BFF-DF4EC801F287}|AwariWPF.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2C4854D-A2A9-4D76-9BFF-DF4EC801F287}|AwariWPF.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\21 awari\\2\\awariwpf\\viewmodel\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2C4854D-A2A9-4D76-9BFF-DF4EC801F287}|AwariWPF.csproj|solutionrelative:viewmodel\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFBDAFA-9A4D-4258-9392-F3F1101099F8}|..\\AwariModel\\AwariModel.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\21 awari\\2\\awarimodel\\model\\awarieventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AwariFileDataAccess.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\21 Awari\\2\\AwariModel\\Persistence\\AwariFileDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\AwariModel\\Persistence\\AwariFileDataAccess.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\21 Awari\\2\\AwariModel\\Persistence\\AwariFileDataAccess.cs",
+              "RelativeToolTip": "..\\AwariModel\\Persistence\\AwariFileDataAccess.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAQwFEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T18:13:51.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AwariEventArgs.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\21 Awari\\2\\AwariModel\\Model\\AwariEventArgs.cs",
+              "RelativeDocumentMoniker": "..\\AwariModel\\Model\\AwariEventArgs.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\21 Awari\\2\\AwariModel\\Model\\AwariEventArgs.cs",
+              "RelativeToolTip": "..\\AwariModel\\Model\\AwariEventArgs.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T21:21:17.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\21 Awari\\2\\AwariWPF\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\21 Awari\\2\\AwariWPF\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAwwEgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T21:07:57.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Table.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\21 Awari\\2\\AwariModel\\Persistence\\Table.cs",
+              "RelativeDocumentMoniker": "..\\AwariModel\\Persistence\\Table.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\21 Awari\\2\\AwariModel\\Persistence\\Table.cs",
+              "RelativeToolTip": "..\\AwariModel\\Persistence\\Table.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T21:06:28.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameModel.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\21 Awari\\2\\AwariModel\\Model\\GameModel.cs",
+              "RelativeDocumentMoniker": "..\\AwariModel\\Model\\GameModel.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\21 Awari\\2\\AwariModel\\Model\\GameModel.cs",
+              "RelativeToolTip": "..\\AwariModel\\Model\\GameModel.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAswEIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T21:06:23.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Field.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\21 Awari\\2\\AwariWPF\\ViewModel\\Field.cs",
+              "RelativeDocumentMoniker": "ViewModel\\Field.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\21 Awari\\2\\AwariWPF\\ViewModel\\Field.cs",
+              "RelativeToolTip": "ViewModel\\Field.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAIwBoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T21:06:16.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DViewModel.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\21 Awari\\2\\AwariWPF\\ViewModel\\DViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\DViewModel.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\21 Awari\\2\\AwariWPF\\ViewModel\\DViewModel.cs",
+              "RelativeToolTip": "ViewModel\\DViewModel.cs",
+              "ViewState": "AgIAAB0BAAAAAAAAAAAgwDEBAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T21:06:05.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\21 Awari\\2\\AwariWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\21 Awari\\2\\AwariWPF\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-10T19:46:56.477Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

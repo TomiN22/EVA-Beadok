@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\12 Fenymotor parbaj\\2\\FenymotorWPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5C71424-AF67-4529-89D3-5095AC30E0D8}|FenymotorWPF.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\12 fenymotor parbaj\\2\\fenymotorwpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5C71424-AF67-4529-89D3-5095AC30E0D8}|FenymotorWPF.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5C71424-AF67-4529-89D3-5095AC30E0D8}|FenymotorWPF.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\12 fenymotor parbaj\\2\\fenymotorwpf\\viewmodel\\fviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5C71424-AF67-4529-89D3-5095AC30E0D8}|FenymotorWPF.csproj|solutionrelative:viewmodel\\fviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94E7DAB-F971-4F0B-924A-A5AF8676A7BD}|..\\FenymotorModel\\FenymotorModel.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\12 fenymotor parbaj\\2\\fenymotormodel\\model\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94E7DAB-F971-4F0B-924A-A5AF8676A7BD}|..\\FenymotorModel\\FenymotorModel.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\12 fenymotor parbaj\\2\\fenymotormodel\\persistence\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5C71424-AF67-4529-89D3-5095AC30E0D8}|FenymotorWPF.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\12 fenymotor parbaj\\2\\fenymotorwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D5C71424-AF67-4529-89D3-5095AC30E0D8}|FenymotorWPF.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94E7DAB-F971-4F0B-924A-A5AF8676A7BD}|..\\FenymotorModel\\FenymotorModel.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\12 fenymotor parbaj\\2\\fenymotormodel\\model\\gamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94E7DAB-F971-4F0B-924A-A5AF8676A7BD}|..\\FenymotorModel\\FenymotorModel.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\12 fenymotor parbaj\\2\\fenymotormodel\\model\\fenymotoreventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94E7DAB-F971-4F0B-924A-A5AF8676A7BD}|..\\FenymotorModel\\FenymotorModel.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\12 fenymotor parbaj\\2\\fenymotormodel\\persistence\\fenymotorfiledataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FenymotorFileDataAccess.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\12 Fenymotor parbaj\\2\\FenymotorModel\\Persistence\\FenymotorFileDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\FenymotorModel\\Persistence\\FenymotorFileDataAccess.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\12 Fenymotor parbaj\\2\\FenymotorModel\\Persistence\\FenymotorFileDataAccess.cs",
+              "RelativeToolTip": "..\\FenymotorModel\\Persistence\\FenymotorFileDataAccess.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAwEUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T19:25:25.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\12 Fenymotor parbaj\\2\\FenymotorModel\\Model\\Player.cs",
+              "RelativeDocumentMoniker": "..\\FenymotorModel\\Model\\Player.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\12 Fenymotor parbaj\\2\\FenymotorModel\\Model\\Player.cs",
+              "RelativeToolTip": "..\\FenymotorModel\\Model\\Player.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T16:50:49.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\12 Fenymotor parbaj\\2\\FenymotorWPF\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\12 Fenymotor parbaj\\2\\FenymotorWPF\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAAAMoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T16:26:29.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FViewModel.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\12 Fenymotor parbaj\\2\\FenymotorWPF\\ViewModel\\FViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\FViewModel.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\12 Fenymotor parbaj\\2\\FenymotorWPF\\ViewModel\\FViewModel.cs",
+              "RelativeToolTip": "ViewModel\\FViewModel.cs",
+              "ViewState": "AgIAAEoBAAAAAAAAAIAwwLQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T16:17:42.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameModel.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\12 Fenymotor parbaj\\2\\FenymotorModel\\Model\\GameModel.cs",
+              "RelativeDocumentMoniker": "..\\FenymotorModel\\Model\\GameModel.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\12 Fenymotor parbaj\\2\\FenymotorModel\\Model\\GameModel.cs",
+              "RelativeToolTip": "..\\FenymotorModel\\Model\\GameModel.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAjwKcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T16:12:23.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Table.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\12 Fenymotor parbaj\\2\\FenymotorModel\\Persistence\\Table.cs",
+              "RelativeDocumentMoniker": "..\\FenymotorModel\\Persistence\\Table.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\12 Fenymotor parbaj\\2\\FenymotorModel\\Persistence\\Table.cs",
+              "RelativeToolTip": "..\\FenymotorModel\\Persistence\\Table.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T16:11:55.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\12 Fenymotor parbaj\\2\\FenymotorWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\12 Fenymotor parbaj\\2\\FenymotorWPF\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-23T20:58:57.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FenymotorEventArgs.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\12 Fenymotor parbaj\\2\\FenymotorModel\\Model\\FenymotorEventArgs.cs",
+              "RelativeDocumentMoniker": "..\\FenymotorModel\\Model\\FenymotorEventArgs.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\12 Fenymotor parbaj\\2\\FenymotorModel\\Model\\FenymotorEventArgs.cs",
+              "RelativeToolTip": "..\\FenymotorModel\\Model\\FenymotorEventArgs.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T16:45:46.135Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\15 Aknakereso\\2\\zipelt\\MineSweeper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD23DCF8-E4B7-4771-92E1-766AEAA287D1}|MineModel\\MineModel.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\15 aknakereso\\2\\zipelt\\minesweeper\\minemodel\\model\\minemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD23DCF8-E4B7-4771-92E1-766AEAA287D1}|MineModel\\MineModel.csproj|solutionrelative:minemodel\\model\\minemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD23DCF8-E4B7-4771-92E1-766AEAA287D1}|MineModel\\MineModel.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\15 aknakereso\\2\\zipelt\\minesweeper\\minemodel\\persistance\\minetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD23DCF8-E4B7-4771-92E1-766AEAA287D1}|MineModel\\MineModel.csproj|solutionrelative:minemodel\\persistance\\minetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB536A2-FFDC-4658-9CE4-207F0B998107}|MineSweeperWPF\\MineSweeperWPF.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\15 aknakereso\\2\\zipelt\\minesweeper\\minesweeperwpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AB536A2-FFDC-4658-9CE4-207F0B998107}|MineSweeperWPF\\MineSweeperWPF.csproj|solutionrelative:minesweeperwpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB536A2-FFDC-4658-9CE4-207F0B998107}|MineSweeperWPF\\MineSweeperWPF.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\15 aknakereso\\2\\zipelt\\minesweeper\\minesweeperwpf\\viewmodel\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AB536A2-FFDC-4658-9CE4-207F0B998107}|MineSweeperWPF\\MineSweeperWPF.csproj|solutionrelative:minesweeperwpf\\viewmodel\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB536A2-FFDC-4658-9CE4-207F0B998107}|MineSweeperWPF\\MineSweeperWPF.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\15 aknakereso\\2\\zipelt\\minesweeper\\minesweeperwpf\\viewmodel\\delegatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AB536A2-FFDC-4658-9CE4-207F0B998107}|MineSweeperWPF\\MineSweeperWPF.csproj|solutionrelative:minesweeperwpf\\viewmodel\\delegatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB536A2-FFDC-4658-9CE4-207F0B998107}|MineSweeperWPF\\MineSweeperWPF.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\15 aknakereso\\2\\zipelt\\minesweeper\\minesweeperwpf\\viewmodel\\minesweeperviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AB536A2-FFDC-4658-9CE4-207F0B998107}|MineSweeperWPF\\MineSweeperWPF.csproj|solutionrelative:minesweeperwpf\\viewmodel\\minesweeperviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB536A2-FFDC-4658-9CE4-207F0B998107}|MineSweeperWPF\\MineSweeperWPF.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\15 aknakereso\\2\\zipelt\\minesweeper\\minesweeperwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AB536A2-FFDC-4658-9CE4-207F0B998107}|MineSweeperWPF\\MineSweeperWPF.csproj|solutionrelative:minesweeperwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB536A2-FFDC-4658-9CE4-207F0B998107}|MineSweeperWPF\\MineSweeperWPF.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\15 aknakereso\\2\\zipelt\\minesweeper\\minesweeperwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2AB536A2-FFDC-4658-9CE4-207F0B998107}|MineSweeperWPF\\MineSweeperWPF.csproj|solutionrelative:minesweeperwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MineTable.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\15 Aknakereso\\2\\zipelt\\MineSweeper\\MineModel\\Persistance\\MineTable.cs",
+              "RelativeDocumentMoniker": "MineModel\\Persistance\\MineTable.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\15 Aknakereso\\2\\zipelt\\MineSweeper\\MineModel\\Persistance\\MineTable.cs",
+              "RelativeToolTip": "MineModel\\Persistance\\MineTable.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAiwGYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:50:25.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MineModel.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\15 Aknakereso\\2\\zipelt\\MineSweeper\\MineModel\\Model\\MineModel.cs",
+              "RelativeDocumentMoniker": "MineModel\\Model\\MineModel.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\15 Aknakereso\\2\\zipelt\\MineSweeper\\MineModel\\Model\\MineModel.cs",
+              "RelativeToolTip": "MineModel\\Model\\MineModel.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAAEMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:50:24.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\15 Aknakereso\\2\\zipelt\\MineSweeper\\MineSweeperWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MineSweeperWPF\\MainWindow.xaml",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\15 Aknakereso\\2\\zipelt\\MineSweeper\\MineSweeperWPF\\MainWindow.xaml",
+              "RelativeToolTip": "MineSweeperWPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-18T18:48:51.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\15 Aknakereso\\2\\zipelt\\MineSweeper\\MineSweeperWPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MineSweeperWPF\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\15 Aknakereso\\2\\zipelt\\MineSweeper\\MineSweeperWPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MineSweeperWPF\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:48:51.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\15 Aknakereso\\2\\zipelt\\MineSweeper\\MineSweeperWPF\\App.xaml.cs",
+              "RelativeDocumentMoniker": "MineSweeperWPF\\App.xaml.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\15 Aknakereso\\2\\zipelt\\MineSweeper\\MineSweeperWPF\\App.xaml.cs",
+              "RelativeToolTip": "MineSweeperWPF\\App.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:48:51.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\15 Aknakereso\\2\\zipelt\\MineSweeper\\MineSweeperWPF\\ViewModel\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "MineSweeperWPF\\ViewModel\\ViewModelBase.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\15 Aknakereso\\2\\zipelt\\MineSweeper\\MineSweeperWPF\\ViewModel\\ViewModelBase.cs",
+              "RelativeToolTip": "MineSweeperWPF\\ViewModel\\ViewModelBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:48:51.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DelegateCommand.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\15 Aknakereso\\2\\zipelt\\MineSweeper\\MineSweeperWPF\\ViewModel\\DelegateCommand.cs",
+              "RelativeDocumentMoniker": "MineSweeperWPF\\ViewModel\\DelegateCommand.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\15 Aknakereso\\2\\zipelt\\MineSweeper\\MineSweeperWPF\\ViewModel\\DelegateCommand.cs",
+              "RelativeToolTip": "MineSweeperWPF\\ViewModel\\DelegateCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:48:51.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MineSweeperViewModel.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\15 Aknakereso\\2\\zipelt\\MineSweeper\\MineSweeperWPF\\ViewModel\\MineSweeperViewModel.cs",
+              "RelativeDocumentMoniker": "MineSweeperWPF\\ViewModel\\MineSweeperViewModel.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\15 Aknakereso\\2\\zipelt\\MineSweeper\\MineSweeperWPF\\ViewModel\\MineSweeperViewModel.cs",
+              "RelativeToolTip": "MineSweeperWPF\\ViewModel\\MineSweeperViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIsAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:48:51.982Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

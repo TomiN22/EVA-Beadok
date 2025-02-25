@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\20 Negyzetek\\2\\NegyzetekWPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60C67F1D-9BCC-41A8-93DB-B4B96428FCD5}|..\\NegyzetekModel\\NegyzetekModel.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\20 negyzetek\\2\\negyzetekmodel\\model\\gamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60C67F1D-9BCC-41A8-93DB-B4B96428FCD5}|..\\NegyzetekModel\\NegyzetekModel.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\20 negyzetek\\2\\negyzetekmodel\\persistence\\negyzetekfiledataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60C67F1D-9BCC-41A8-93DB-B4B96428FCD5}|..\\NegyzetekModel\\NegyzetekModel.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\20 negyzetek\\2\\negyzetekmodel\\persistence\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{796F6D67-53AA-46DA-98CE-2DD349B1CC8E}|NegyzetekWPF.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\20 negyzetek\\2\\negyzetekwpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{796F6D67-53AA-46DA-98CE-2DD349B1CC8E}|NegyzetekWPF.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{796F6D67-53AA-46DA-98CE-2DD349B1CC8E}|NegyzetekWPF.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\20 negyzetek\\2\\negyzetekwpf\\viewmodel\\dviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{796F6D67-53AA-46DA-98CE-2DD349B1CC8E}|NegyzetekWPF.csproj|solutionrelative:viewmodel\\dviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{796F6D67-53AA-46DA-98CE-2DD349B1CC8E}|NegyzetekWPF.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\20 negyzetek\\2\\negyzetekwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{796F6D67-53AA-46DA-98CE-2DD349B1CC8E}|NegyzetekWPF.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NegyzetekFileDataAccess.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\20 Negyzetek\\2\\NegyzetekModel\\Persistence\\NegyzetekFileDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\NegyzetekModel\\Persistence\\NegyzetekFileDataAccess.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\20 Negyzetek\\2\\NegyzetekModel\\Persistence\\NegyzetekFileDataAccess.cs",
+              "RelativeToolTip": "..\\NegyzetekModel\\Persistence\\NegyzetekFileDataAccess.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T23:02:52.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DViewModel.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\20 Negyzetek\\2\\NegyzetekWPF\\ViewModel\\DViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\DViewModel.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\20 Negyzetek\\2\\NegyzetekWPF\\ViewModel\\DViewModel.cs",
+              "RelativeToolTip": "ViewModel\\DViewModel.cs",
+              "ViewState": "AgIAAAoBAAAAAAAAAAAtwBMBAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T19:32:53.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\20 Negyzetek\\2\\NegyzetekWPF\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\20 Negyzetek\\2\\NegyzetekWPF\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAADwv8gAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T19:23:52.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Table.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\20 Negyzetek\\2\\NegyzetekModel\\Persistence\\Table.cs",
+              "RelativeDocumentMoniker": "..\\NegyzetekModel\\Persistence\\Table.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\20 Negyzetek\\2\\NegyzetekModel\\Persistence\\Table.cs",
+              "RelativeToolTip": "..\\NegyzetekModel\\Persistence\\Table.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAD4v0UAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T19:32:14.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameModel.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\20 Negyzetek\\2\\NegyzetekModel\\Model\\GameModel.cs",
+              "RelativeDocumentMoniker": "..\\NegyzetekModel\\Model\\GameModel.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\20 Negyzetek\\2\\NegyzetekModel\\Model\\GameModel.cs",
+              "RelativeToolTip": "..\\NegyzetekModel\\Model\\GameModel.cs",
+              "ViewState": "AgIAAAYBAAAAAAAAAAAAABQBAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T19:32:17.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\20 Negyzetek\\2\\NegyzetekWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\20 Negyzetek\\2\\NegyzetekWPF\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-09T19:21:15.42Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

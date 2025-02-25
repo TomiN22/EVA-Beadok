@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\6 Tetris\\2\\TetrisWPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5663E051-5E17-43C2-A394-B851C1D86798}|..\\TetrisModel\\TetrisModel.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\6 tetris\\2\\tetrismodel\\model\\gamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4652CBB1-573D-4D7C-8550-AE2FCBF7D86A}|TetrisWPF.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\6 tetris\\2\\tetriswpf\\viewmodel\\aviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4652CBB1-573D-4D7C-8550-AE2FCBF7D86A}|TetrisWPF.csproj|solutionrelative:viewmodel\\aviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5663E051-5E17-43C2-A394-B851C1D86798}|..\\TetrisModel\\TetrisModel.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\6 tetris\\2\\tetrismodel\\model\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5663E051-5E17-43C2-A394-B851C1D86798}|..\\TetrisModel\\TetrisModel.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\6 tetris\\2\\tetrismodel\\persistence\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4652CBB1-573D-4D7C-8550-AE2FCBF7D86A}|TetrisWPF.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\6 tetris\\2\\tetriswpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4652CBB1-573D-4D7C-8550-AE2FCBF7D86A}|TetrisWPF.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4652CBB1-573D-4D7C-8550-AE2FCBF7D86A}|TetrisWPF.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\6 tetris\\2\\tetriswpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4652CBB1-573D-4D7C-8550-AE2FCBF7D86A}|TetrisWPF.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5663E051-5E17-43C2-A394-B851C1D86798}|..\\TetrisModel\\TetrisModel.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\6 tetris\\2\\tetrismodel\\model\\shapestepeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4652CBB1-573D-4D7C-8550-AE2FCBF7D86A}|TetrisWPF.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\6 tetris\\2\\tetriswpf\\viewmodel\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4652CBB1-573D-4D7C-8550-AE2FCBF7D86A}|TetrisWPF.csproj|solutionrelative:viewmodel\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5663E051-5E17-43C2-A394-B851C1D86798}|..\\TetrisModel\\TetrisModel.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\6 tetris\\2\\tetrismodel\\persistence\\tetrisfiledataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShapeStepEventArgs.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\6 Tetris\\2\\TetrisModel\\Model\\ShapeStepEventArgs.cs",
+              "RelativeDocumentMoniker": "..\\TetrisModel\\Model\\ShapeStepEventArgs.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\6 Tetris\\2\\TetrisModel\\Model\\ShapeStepEventArgs.cs",
+              "RelativeToolTip": "..\\TetrisModel\\Model\\ShapeStepEventArgs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T11:57:15.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TetrisFileDataAccess.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\6 Tetris\\2\\TetrisModel\\Persistence\\TetrisFileDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\TetrisModel\\Persistence\\TetrisFileDataAccess.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\6 Tetris\\2\\TetrisModel\\Persistence\\TetrisFileDataAccess.cs",
+              "RelativeToolTip": "..\\TetrisModel\\Persistence\\TetrisFileDataAccess.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwBwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T23:17:48.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Field.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\6 Tetris\\2\\TetrisWPF\\ViewModel\\Field.cs",
+              "RelativeDocumentMoniker": "ViewModel\\Field.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\6 Tetris\\2\\TetrisWPF\\ViewModel\\Field.cs",
+              "RelativeToolTip": "ViewModel\\Field.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAkwG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T23:15:24.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\6 Tetris\\2\\TetrisModel\\Model\\Shape.cs",
+              "RelativeDocumentMoniker": "..\\TetrisModel\\Model\\Shape.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\6 Tetris\\2\\TetrisModel\\Model\\Shape.cs",
+              "RelativeToolTip": "..\\TetrisModel\\Model\\Shape.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAiwEUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T22:19:05.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Table.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\6 Tetris\\2\\TetrisModel\\Persistence\\Table.cs",
+              "RelativeDocumentMoniker": "..\\TetrisModel\\Persistence\\Table.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\6 Tetris\\2\\TetrisModel\\Persistence\\Table.cs",
+              "RelativeToolTip": "..\\TetrisModel\\Persistence\\Table.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAqwEAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T22:19:13.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameModel.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\6 Tetris\\2\\TetrisModel\\Model\\GameModel.cs",
+              "RelativeDocumentMoniker": "..\\TetrisModel\\Model\\GameModel.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\6 Tetris\\2\\TetrisModel\\Model\\GameModel.cs",
+              "RelativeToolTip": "..\\TetrisModel\\Model\\GameModel.cs",
+              "ViewState": "AgIAAEsBAAAAAAAAAAArwG0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T22:19:02.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AViewModel.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\6 Tetris\\2\\TetrisWPF\\ViewModel\\AViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\AViewModel.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\6 Tetris\\2\\TetrisWPF\\ViewModel\\AViewModel.cs",
+              "RelativeToolTip": "ViewModel\\AViewModel.cs",
+              "ViewState": "AgIAABcBAAAAAAAAAAAlwCsBAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T22:18:43.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\6 Tetris\\2\\TetrisWPF\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\6 Tetris\\2\\TetrisWPF\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAqwLcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T22:06:20.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\6 Tetris\\2\\TetrisWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\6 Tetris\\2\\TetrisWPF\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-05T21:48:53.818Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

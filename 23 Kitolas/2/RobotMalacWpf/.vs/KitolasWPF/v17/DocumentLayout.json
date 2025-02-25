@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\23 Kitolas\\2\\RobotMalacWpf\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2DE3F76-F390-4681-9DEE-0EA674969154}|..\\RobotmalacModel\\KitolasModel.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\23 kitolas\\2\\robotmalacmodel\\persistence\\robottable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2DE3F76-F390-4681-9DEE-0EA674969154}|..\\RobotmalacModel\\KitolasModel.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\23 kitolas\\2\\robotmalacmodel\\model\\robotmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{827DC5E5-83F2-495D-8CF3-992D0BAE6257}|KitolasWpf.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\23 kitolas\\2\\robotmalacwpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{827DC5E5-83F2-495D-8CF3-992D0BAE6257}|KitolasWpf.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{827DC5E5-83F2-495D-8CF3-992D0BAE6257}|KitolasWpf.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\23 kitolas\\2\\robotmalacwpf\\viewmodel\\robotmalacviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{827DC5E5-83F2-495D-8CF3-992D0BAE6257}|KitolasWpf.csproj|solutionrelative:viewmodel\\robotmalacviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{827DC5E5-83F2-495D-8CF3-992D0BAE6257}|KitolasWpf.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\23 kitolas\\2\\robotmalacwpf\\viewmodel\\robotmalacfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{827DC5E5-83F2-495D-8CF3-992D0BAE6257}|KitolasWpf.csproj|solutionrelative:viewmodel\\robotmalacfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\23\\2\\RobotmalacModel\\Persistence\\IRobotFileDataAccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\23\\2\\RobotmalacModel\\Model\\RobotEventArgs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RobotTable.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\23 Kitolas\\2\\RobotmalacModel\\Persistence\\RobotTable.cs",
+              "RelativeDocumentMoniker": "..\\RobotmalacModel\\Persistence\\RobotTable.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\23 Kitolas\\2\\RobotmalacModel\\Persistence\\RobotTable.cs",
+              "RelativeToolTip": "..\\RobotmalacModel\\Persistence\\RobotTable.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAiwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T12:42:44.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RobotModel.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\23 Kitolas\\2\\RobotmalacModel\\Model\\RobotModel.cs",
+              "RelativeDocumentMoniker": "..\\RobotmalacModel\\Model\\RobotModel.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\23 Kitolas\\2\\RobotmalacModel\\Model\\RobotModel.cs",
+              "RelativeToolTip": "..\\RobotmalacModel\\Model\\RobotModel.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAuwJQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T12:37:41.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRobotFileDataAccess.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\23\\2\\RobotmalacModel\\Persistence\\IRobotFileDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\23\\2\\RobotmalacModel\\Persistence\\IRobotFileDataAccess.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\23\\2\\RobotmalacModel\\Persistence\\IRobotFileDataAccess.cs",
+              "RelativeToolTip": "..\\..\\..\\23\\2\\RobotmalacModel\\Persistence\\IRobotFileDataAccess.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T20:41:50.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RobotMalacViewModel.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\23 Kitolas\\2\\RobotMalacWpf\\ViewModel\\RobotMalacViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\RobotMalacViewModel.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\23 Kitolas\\2\\RobotMalacWpf\\ViewModel\\RobotMalacViewModel.cs",
+              "RelativeToolTip": "ViewModel\\RobotMalacViewModel.cs",
+              "ViewState": "AQIAALQAAAAAAAAAAAAqwNAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T16:09:24.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\23 Kitolas\\2\\RobotMalacWpf\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\23 Kitolas\\2\\RobotMalacWpf\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAiwEwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T16:09:24.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RobotMalacField.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\23 Kitolas\\2\\RobotMalacWpf\\ViewModel\\RobotMalacField.cs",
+              "RelativeDocumentMoniker": "ViewModel\\RobotMalacField.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\23 Kitolas\\2\\RobotMalacWpf\\ViewModel\\RobotMalacField.cs",
+              "RelativeToolTip": "ViewModel\\RobotMalacField.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T16:09:24.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RobotEventArgs.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\23\\2\\RobotmalacModel\\Model\\RobotEventArgs.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\23\\2\\RobotmalacModel\\Model\\RobotEventArgs.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\23\\2\\RobotmalacModel\\Model\\RobotEventArgs.cs",
+              "RelativeToolTip": "..\\..\\..\\23\\2\\RobotmalacModel\\Model\\RobotEventArgs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T07:46:55.825Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

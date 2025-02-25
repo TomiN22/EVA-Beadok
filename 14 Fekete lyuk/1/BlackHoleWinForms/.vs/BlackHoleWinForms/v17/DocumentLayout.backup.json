@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\14 Fekete lyuk\\1\\BlackHoleWinForms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45CD4F78-6CAC-453D-A2C2-A676494A7D11}|..\\BlackHoleModel\\BlackHoleModel.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\14 fekete lyuk\\1\\blackholemodel\\model\\gamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C559CAFD-396A-4350-AAE7-D42D454E79DE}|BlackHoleWinForms\\BlackHoleWinForms.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\14 fekete lyuk\\1\\blackholewinforms\\blackholewinforms\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C559CAFD-396A-4350-AAE7-D42D454E79DE}|BlackHoleWinForms\\BlackHoleWinForms.csproj|solutionrelative:blackholewinforms\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CD4F78-6CAC-453D-A2C2-A676494A7D11}|..\\BlackHoleModel\\BlackHoleModel.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\14 fekete lyuk\\1\\blackholemodel\\persistence\\blackholefiledataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CD4F78-6CAC-453D-A2C2-A676494A7D11}|..\\BlackHoleModel\\BlackHoleModel.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\14 fekete lyuk\\1\\blackholemodel\\model\\enemystepeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CD4F78-6CAC-453D-A2C2-A676494A7D11}|..\\BlackHoleModel\\BlackHoleModel.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\14 fekete lyuk\\1\\blackholemodel\\model\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CD4F78-6CAC-453D-A2C2-A676494A7D11}|..\\BlackHoleModel\\BlackHoleModel.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\14 fekete lyuk\\1\\blackholemodel\\model\\blackholeeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CD4F78-6CAC-453D-A2C2-A676494A7D11}|..\\BlackHoleModel\\BlackHoleModel.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\14 fekete lyuk\\1\\blackholemodel\\persistence\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C559CAFD-396A-4350-AAE7-D42D454E79DE}|BlackHoleWinForms\\BlackHoleWinForms.csproj|D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\14 Fekete lyuk\\1\\BlackHoleWinForms\\blackholewinforms\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C559CAFD-396A-4350-AAE7-D42D454E79DE}|BlackHoleWinForms\\BlackHoleWinForms.csproj|solutionrelative:blackholewinforms\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\14 Fekete lyuk\\1\\BlackHoleModel\\Model\\Enemy.cs",
+              "RelativeDocumentMoniker": "..\\BlackHoleModel\\Model\\Enemy.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\14 Fekete lyuk\\1\\BlackHoleModel\\Model\\Enemy.cs",
+              "RelativeToolTip": "..\\BlackHoleModel\\Model\\Enemy.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAArwEIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T16:34:11.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnemyStepEventArgs.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\14 Fekete lyuk\\1\\BlackHoleModel\\Model\\EnemyStepEventArgs.cs",
+              "RelativeDocumentMoniker": "..\\BlackHoleModel\\Model\\EnemyStepEventArgs.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\14 Fekete lyuk\\1\\BlackHoleModel\\Model\\EnemyStepEventArgs.cs",
+              "RelativeToolTip": "..\\BlackHoleModel\\Model\\EnemyStepEventArgs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T16:31:36.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlackHoleFileDataAccess.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\14 Fekete lyuk\\1\\BlackHoleModel\\Persistence\\BlackHoleFileDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\BlackHoleModel\\Persistence\\BlackHoleFileDataAccess.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\14 Fekete lyuk\\1\\BlackHoleModel\\Persistence\\BlackHoleFileDataAccess.cs",
+              "RelativeToolTip": "..\\BlackHoleModel\\Persistence\\BlackHoleFileDataAccess.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAQwEsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T22:34:18.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BlackHoleEventArgs.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\14 Fekete lyuk\\1\\BlackHoleModel\\Model\\BlackHoleEventArgs.cs",
+              "RelativeDocumentMoniker": "..\\BlackHoleModel\\Model\\BlackHoleEventArgs.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\14 Fekete lyuk\\1\\BlackHoleModel\\Model\\BlackHoleEventArgs.cs",
+              "RelativeToolTip": "..\\BlackHoleModel\\Model\\BlackHoleEventArgs.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T17:42:36.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameModel.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\14 Fekete lyuk\\1\\BlackHoleModel\\Model\\GameModel.cs",
+              "RelativeDocumentMoniker": "..\\BlackHoleModel\\Model\\GameModel.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\14 Fekete lyuk\\1\\BlackHoleModel\\Model\\GameModel.cs",
+              "RelativeToolTip": "..\\BlackHoleModel\\Model\\GameModel.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAIwE0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T16:33:30.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Table.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\14 Fekete lyuk\\1\\BlackHoleModel\\Persistence\\Table.cs",
+              "RelativeDocumentMoniker": "..\\BlackHoleModel\\Persistence\\Table.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\14 Fekete lyuk\\1\\BlackHoleModel\\Persistence\\Table.cs",
+              "RelativeToolTip": "..\\BlackHoleModel\\Persistence\\Table.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAMwCgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T16:19:17.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\14 Fekete lyuk\\1\\BlackHoleWinForms\\BlackHoleWinForms\\Form.cs",
+              "RelativeDocumentMoniker": "BlackHoleWinForms\\Form.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\14 Fekete lyuk\\1\\BlackHoleWinForms\\BlackHoleWinForms\\Form.cs",
+              "RelativeToolTip": "BlackHoleWinForms\\Form.cs",
+              "ViewState": "AgIAAMgAAAAAAAAAAADgv+MAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T15:21:10.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form.cs [Design]",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\14 Fekete lyuk\\1\\BlackHoleWinForms\\BlackHoleWinForms\\Form.cs",
+              "RelativeDocumentMoniker": "BlackHoleWinForms\\Form.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\14 Fekete lyuk\\1\\BlackHoleWinForms\\BlackHoleWinForms\\Form.cs [Design]",
+              "RelativeToolTip": "BlackHoleWinForms\\Form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T14:55:15.314Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

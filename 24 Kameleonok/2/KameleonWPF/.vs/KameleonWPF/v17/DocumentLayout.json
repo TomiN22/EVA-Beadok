@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\24 Kameleonok\\2\\KameleonWPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96F65794-FE1B-4E35-921D-22EA3D832794}|..\\KameleonModel\\KameleonModel.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\24 kameleonok\\2\\kameleonmodel\\model\\gamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52277EA4-1E3B-4CBE-995A-510EFF17A9B6}|KameleonWPF.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\24 kameleonok\\2\\kameleonwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{52277EA4-1E3B-4CBE-995A-510EFF17A9B6}|KameleonWPF.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52277EA4-1E3B-4CBE-995A-510EFF17A9B6}|KameleonWPF.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\24 kameleonok\\2\\kameleonwpf\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52277EA4-1E3B-4CBE-995A-510EFF17A9B6}|KameleonWPF.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52277EA4-1E3B-4CBE-995A-510EFF17A9B6}|KameleonWPF.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\24 kameleonok\\2\\kameleonwpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52277EA4-1E3B-4CBE-995A-510EFF17A9B6}|KameleonWPF.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52277EA4-1E3B-4CBE-995A-510EFF17A9B6}|KameleonWPF.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\24 kameleonok\\2\\kameleonwpf\\viewmodel\\dviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52277EA4-1E3B-4CBE-995A-510EFF17A9B6}|KameleonWPF.csproj|solutionrelative:viewmodel\\dviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F65794-FE1B-4E35-921D-22EA3D832794}|..\\KameleonModel\\KameleonModel.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\24 kameleonok\\2\\kameleonmodel\\persistence\\kameleonfiledataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F65794-FE1B-4E35-921D-22EA3D832794}|..\\KameleonModel\\KameleonModel.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\24 kameleonok\\2\\kameleonmodel\\persistence\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\24 Kameleonok\\2\\KameleonWPF\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AssemblyInfo.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\24 Kameleonok\\2\\KameleonWPF\\AssemblyInfo.cs",
+              "RelativeToolTip": "AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T19:34:32.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KameleonFileDataAccess.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\24 Kameleonok\\2\\KameleonModel\\Persistence\\KameleonFileDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\KameleonModel\\Persistence\\KameleonFileDataAccess.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\24 Kameleonok\\2\\KameleonModel\\Persistence\\KameleonFileDataAccess.cs",
+              "RelativeToolTip": "..\\KameleonModel\\Persistence\\KameleonFileDataAccess.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAmwFcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T21:27:32.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Table.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\24 Kameleonok\\2\\KameleonModel\\Persistence\\Table.cs",
+              "RelativeDocumentMoniker": "..\\KameleonModel\\Persistence\\Table.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\24 Kameleonok\\2\\KameleonModel\\Persistence\\Table.cs",
+              "RelativeToolTip": "..\\KameleonModel\\Persistence\\Table.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAvwFcAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T15:38:05.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameModel.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\24 Kameleonok\\2\\KameleonModel\\Model\\GameModel.cs",
+              "RelativeDocumentMoniker": "..\\KameleonModel\\Model\\GameModel.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\24 Kameleonok\\2\\KameleonModel\\Model\\GameModel.cs",
+              "RelativeToolTip": "..\\KameleonModel\\Model\\GameModel.cs",
+              "ViewState": "AgIAAE0BAAAAAAAAAAAAAF0BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T15:37:13.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DViewModel.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\24 Kameleonok\\2\\KameleonWPF\\ViewModel\\DViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\DViewModel.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\24 Kameleonok\\2\\KameleonWPF\\ViewModel\\DViewModel.cs",
+              "RelativeToolTip": "ViewModel\\DViewModel.cs",
+              "ViewState": "AgIAAMoAAAAAAAAAAAAhwJMBAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T15:37:48.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\24 Kameleonok\\2\\KameleonWPF\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\24 Kameleonok\\2\\KameleonWPF\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAYwMcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T15:34:26.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\24 Kameleonok\\2\\KameleonWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\24 Kameleonok\\2\\KameleonWPF\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-01T15:03:33.833Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

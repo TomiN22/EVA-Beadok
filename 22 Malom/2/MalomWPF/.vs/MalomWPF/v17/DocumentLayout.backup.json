@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\22 Malom\\2\\MalomWPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{307E7B6D-E275-4251-9AA5-00F1FEA30F8B}|MalomWPF.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\22 malom\\2\\malomwpf\\viewmodel\\dviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{307E7B6D-E275-4251-9AA5-00F1FEA30F8B}|MalomWPF.csproj|solutionrelative:viewmodel\\dviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3835F16-157A-4A44-9E6A-0F06F58F62FA}|..\\MalomModel\\MalomModel.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\22 malom\\2\\malommodel\\model\\gamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{307E7B6D-E275-4251-9AA5-00F1FEA30F8B}|MalomWPF.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\22 malom\\2\\malomwpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{307E7B6D-E275-4251-9AA5-00F1FEA30F8B}|MalomWPF.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{307E7B6D-E275-4251-9AA5-00F1FEA30F8B}|MalomWPF.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\22 malom\\2\\malomwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{307E7B6D-E275-4251-9AA5-00F1FEA30F8B}|MalomWPF.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3835F16-157A-4A44-9E6A-0F06F58F62FA}|..\\MalomModel\\MalomModel.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\22 malom\\2\\malommodel\\persistence\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{307E7B6D-E275-4251-9AA5-00F1FEA30F8B}|MalomWPF.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\22 malom\\2\\malomwpf\\viewmodel\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{307E7B6D-E275-4251-9AA5-00F1FEA30F8B}|MalomWPF.csproj|solutionrelative:viewmodel\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3835F16-157A-4A44-9E6A-0F06F58F62FA}|..\\MalomModel\\MalomModel.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\22 malom\\2\\malommodel\\model\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Table.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\22 Malom\\2\\MalomModel\\Persistence\\Table.cs",
+              "RelativeDocumentMoniker": "..\\MalomModel\\Persistence\\Table.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\22 Malom\\2\\MalomModel\\Persistence\\Table.cs",
+              "RelativeToolTip": "..\\MalomModel\\Persistence\\Table.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAuwEgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T12:26:24.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Figure.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\22 Malom\\2\\MalomModel\\Model\\Figure.cs",
+              "RelativeDocumentMoniker": "..\\MalomModel\\Model\\Figure.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\22 Malom\\2\\MalomModel\\Model\\Figure.cs",
+              "RelativeToolTip": "..\\MalomModel\\Model\\Figure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T12:26:19.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Field.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\22 Malom\\2\\MalomWPF\\ViewModel\\Field.cs",
+              "RelativeDocumentMoniker": "ViewModel\\Field.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\22 Malom\\2\\MalomWPF\\ViewModel\\Field.cs",
+              "RelativeToolTip": "ViewModel\\Field.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T12:26:17.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DViewModel.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\22 Malom\\2\\MalomWPF\\ViewModel\\DViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\DViewModel.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\22 Malom\\2\\MalomWPF\\ViewModel\\DViewModel.cs",
+              "RelativeToolTip": "ViewModel\\DViewModel.cs",
+              "ViewState": "AgIAAD4BAAAAAAAAAAAqwEwBAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T12:26:12.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameModel.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\22 Malom\\2\\MalomModel\\Model\\GameModel.cs",
+              "RelativeDocumentMoniker": "..\\MalomModel\\Model\\GameModel.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\22 Malom\\2\\MalomModel\\Model\\GameModel.cs",
+              "RelativeToolTip": "..\\MalomModel\\Model\\GameModel.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAwMQBAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T12:24:02.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\22 Malom\\2\\MalomWPF\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\22 Malom\\2\\MalomWPF\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAAEUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T12:07:35.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\22 Malom\\2\\MalomWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\22 Malom\\2\\MalomWPF\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-02T11:58:49.743Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:views="clr-namespace:FenymotorAvalonia.Views"
+        x:Class="FenymotorAvalonia.Views.MainWindow"
+        Icon="/Assets/avalonia-logo.ico"
+        Title="FenymotorAvalonia"
+        Width="600" Height="600"
+        MinWidth="300" MinHeight="300">
+		<views:MainView />
+</Window>

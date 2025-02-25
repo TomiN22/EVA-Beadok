@@ -1,0 +1,79 @@
+﻿<Window x:Class="RobotMalacWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RobotMalacWPF"
+        mc:Ignorable="d"
+        Title="Robot Pig Fight" Height="550" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="5*" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1.5*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+
+        <Menu Grid.Row="0" Grid.ColumnSpan="2">
+            <MenuItem Header="Menu">
+                <MenuItem Header="New Game" >
+                    <MenuItem Header="4x4" Command="{Binding FourGameCommand}"/>
+                    <MenuItem Header="6x6" Command="{Binding SixGameCommand}"/>
+                    <MenuItem Header="8x8" Command="{Binding EightGameCommand}"/>
+                </MenuItem>
+                <Separator />
+                <MenuItem Header="Save game..." Command="{Binding SaveGameCommand}" />
+                <MenuItem Header="Load game..." Command="{Binding LoadGameCommand}" />
+                <Separator/>
+                <MenuItem Header="How to play" Command="{Binding HowToCommand}" />
+                <Separator />
+                <MenuItem Header="Exit" Command="{Binding ExitCommand}" />
+            </MenuItem>
+        </Menu>
+
+        <ItemsControl Grid.Row="1" Grid.Column="0" ItemsSource="{Binding Fields}">
+            <!--az mezőket tároló vezérlő-->
+            <ItemsControl.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <!--a gombokat egy rácsba fűzzük fel-->
+                    <UniformGrid Rows="{Binding Size}" Columns="{Binding Size}"/>
+                </ItemsPanelTemplate>
+            </ItemsControl.ItemsPanel>
+            <ItemsControl.ItemTemplate>
+                <!--az elemek gombok lesznek-->
+                <DataTemplate>
+                    <Button IsEnabled="True" Focusable="False" RenderTransformOrigin="0.5, 0.5" 
+                            FontSize="20" FontWeight="Bold" Foreground="Transparent" Background="#FFCF6464">
+                        <Image Source="{Binding Player1Image}"/>
+                    </Button>
+                    <!--Background="#FFCF6464" Command="{Binding StepCommand}" CommandParameter="{Binding Number}"-->
+
+                </DataTemplate>
+            </ItemsControl.ItemTemplate>
+            <ItemsControl.ItemContainerStyle>
+                <!--a függőségi tulajdonságokat kjülön kell kötnünk-->
+                <Style>
+                    <Setter Property="Grid.Row" Value="{Binding X}" />
+                    <Setter Property="Grid.Column" Value="{Binding Y}" />
+                </Style>
+            </ItemsControl.ItemContainerStyle>
+        </ItemsControl>
+
+        <TextBox Grid.Column="1" Text="{Binding TextCommand}" Visibility="{Binding RightColumnVisibility}" HorizontalAlignment="Center" Margin="0,169,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="248" Height="62" FontSize="14"/>
+        <Label Grid.Column="1" Content="Write the instructions below:" Visibility="{Binding RightColumnVisibility}" HorizontalAlignment="Left" Margin="36,138,0,0" Grid.Row="1" VerticalAlignment="Top" FontWeight="Bold" FontFamily="Nasalization" Height="26" Width="255" FontSize="14"/>
+        <Button Grid.Column="1" Content="Ok" Visibility="{Binding RightColumnVisibility}" Command="{Binding OkClickedCommand}" HorizontalAlignment="Left" Margin="37,247,0,0" Grid.Row="1" VerticalAlignment="Top" Height="24" Width="52" FontSize="14"/>
+        <Label Grid.Column="1" Content="{Binding PlayerTurnText}" Visibility="{Binding RightColumnVisibility}" HorizontalAlignment="Left" Margin="109,30,0,0" Grid.Row="1" VerticalAlignment="Top"/>
+        <Button Grid.Column="1" HorizontalAlignment="Left" Visibility="{Binding RightColumnVisibility}" Margin="214,30,0,0" Grid.Row="1" VerticalAlignment="Top" Height="64" Width="69" Background="Transparent" Foreground="Transparent">
+            <Image Source="{Binding PlayerTurnImage}"/>
+        </Button>
+        <Label Grid.Column="1" Content="Player 1 health" Visibility="{Binding RightColumnVisibility}" HorizontalAlignment="Left" Margin="29,366,0,0" Grid.Row="1" VerticalAlignment="Top" Height="28" Width="90"/>
+        <Label Grid.Column="1" Content="Player 2 health" Visibility="{Binding RightColumnVisibility}" HorizontalAlignment="Left" Margin="193,366,0,0" Grid.Row="1" VerticalAlignment="Top" Height="28" Width="90"/>
+        <ProgressBar Grid.Column="1" Value="{Binding ProgressBar1Value}" Visibility="{Binding RightColumnVisibility}" HorizontalAlignment="Left" Height="10" Margin="29,408,0,0" Grid.Row="1" VerticalAlignment="Top" Width="90"/>
+        <ProgressBar Grid.Column="1" Value="{Binding ProgressBar2Value}" Visibility="{Binding RightColumnVisibility}" HorizontalAlignment="Left" Height="10" Margin="193,408,0,0" Grid.Row="1" VerticalAlignment="Top" Width="90"/>
+        <Label Grid.Column="1" Content="{Binding P1Hitpoints}" Visibility="{Binding RightColumnVisibility}" HorizontalAlignment="Left" Margin="69,423,0,0" Grid.Row="1" VerticalAlignment="Top"/>
+        <Label Grid.Column="1" Content="{Binding P2Hitpoints}" Visibility="{Binding RightColumnVisibility}" HorizontalAlignment="Left" Margin="233,423,0,0" Grid.Row="1" VerticalAlignment="Top"/>
+    </Grid>
+</Window>

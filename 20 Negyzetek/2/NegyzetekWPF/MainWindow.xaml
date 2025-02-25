@@ -1,0 +1,78 @@
+﻿<Window x:Class="NegyzetekWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NegyzetekWPF"
+        mc:Ignorable="d"
+        Title="Négyzetek" Height="600" Width="600">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="5*" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+
+        <Menu Grid.Row="0" Grid.ColumnSpan="2">
+            <MenuItem Header="Menu">
+                <MenuItem Header="New Game">
+                    <MenuItem Header="3x3" Command="{Binding ThreeGameCommand}"/>
+                    <MenuItem Header="5x5" Command="{Binding FiveGameCommand}"/>
+                    <MenuItem Header="9x9" Command="{Binding NineGameCommand}"/>
+                </MenuItem>
+                <Separator />
+                <MenuItem Header="Save game..." Command="{Binding SaveGameCommand}" IsEnabled="{Binding EnableSave}"/>
+                <MenuItem Header="Load game..." Command="{Binding LoadGameCommand}" IsEnabled="{Binding EnableLoad}"/>
+                <Separator />
+                <MenuItem Header="Exit" Command="{Binding ExitCommand}" />
+            </MenuItem>
+            <!--<MenuItem Header="{Binding StartStop}" Command="{Binding StartStopCommand}" IsEnabled="{Binding EnableStartStop}"/>-->
+            <!--<MenuItem Header="Pause" Command="{Binding PauseStartGameCommand}" IsEnabled="{Binding EnablePause}">-->
+
+            <!--</MenuItem>-->
+        </Menu>
+
+        <!-- Eredeti táblarács (ItemsControl a játékmezőkhöz) -->
+        <ItemsControl Grid.Row="2" Grid.Column="0" ItemsSource="{Binding Fields}" Grid.ColumnSpan="2" Margin="0,0,5,0">
+            <ItemsControl.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <UniformGrid Rows="{Binding Size}" Columns="{Binding Size}"/>
+                </ItemsPanelTemplate>
+            </ItemsControl.ItemsPanel>
+            <ItemsControl.ItemTemplate>
+                <DataTemplate>
+                    <Button Command="{Binding StepCommand}" CommandParameter="{Binding Number}" IsEnabled="True" Focusable="True"  RenderTransformOrigin="0.5, 0.5" 
+                    FontSize="20" FontWeight="Bold" Background="{Binding Colour}">
+                        <Image Source="{Binding Image}"/>
+                    </Button>
+                </DataTemplate>
+            </ItemsControl.ItemTemplate>
+        </ItemsControl>
+
+
+        <StatusBar Grid.Row="3" VerticalAlignment="Center" Grid.ColumnSpan="2" Visibility="{Binding StatusBarVisibility}">
+            <Grid Height="22" VerticalAlignment="Center" Width="446">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="150" />
+                    <ColumnDefinition Width="22" />
+                    <ColumnDefinition Width="113" />
+                    <ColumnDefinition Width="41" />
+                    <ColumnDefinition Width="120" />
+                    <ColumnDefinition Width="94" />
+                </Grid.ColumnDefinitions>
+
+                <StatusBarItem Grid.Column="0" Content="P1 time:" HorizontalAlignment="Left" Margin="10,0,0,0" Width="53"/>
+                <StatusBarItem Content="{Binding P1Time}" Margin="60,0,44,0"/>
+                <StatusBarItem Grid.Column="2" Content="P2 time:" HorizontalAlignment="Left" Margin="10,0,0,0" Width="54"/>
+                <StatusBarItem Grid.Column="2" Content="{Binding P2Time}" Margin="59,0,5,0"/>
+                <!--<StatusBarItem Grid.Column="4" Content="Points:" HorizontalAlignment="Left" Margin="10,0,0,0" Width="45"/>
+    <StatusBarItem Grid.Column="4" Content="{Binding Points}" Margin="55,0,15,0"/>-->
+            </Grid>
+        </StatusBar>
+    </Grid>
+</Window>

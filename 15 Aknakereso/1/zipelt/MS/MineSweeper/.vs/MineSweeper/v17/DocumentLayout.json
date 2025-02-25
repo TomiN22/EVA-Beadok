@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ELTE\\2022-23 \u0151szi\\Esem\u00E9nyvez\u00E9relt alkalmaz\u00E1sok fejleszt\u00E9se\\Gyakorlat\\Beadand\u00F3k\\1\\zipelt\\MS\\MineSweeper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E012CD0-A76D-4827-8C72-67FEA8CCF047}|..\\MineModel\\MineModel.csproj|d:\\elte\\2022-23 \u0151szi\\esem\u00E9nyvez\u00E9relt alkalmaz\u00E1sok fejleszt\u00E9se\\gyakorlat\\beadand\u00F3k\\1\\zipelt\\ms\\minemodel\\model\\minemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA9767B4-3F16-42C5-9FC8-C47786B189CD}|MineSweeper.csproj|d:\\elte\\2022-23 \u0151szi\\esem\u00E9nyvez\u00E9relt alkalmaz\u00E1sok fejleszt\u00E9se\\gyakorlat\\beadand\u00F3k\\1\\zipelt\\ms\\minesweeper\\minesweeper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA9767B4-3F16-42C5-9FC8-C47786B189CD}|MineSweeper.csproj|solutionrelative:minesweeper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E012CD0-A76D-4827-8C72-67FEA8CCF047}|..\\MineModel\\MineModel.csproj|d:\\elte\\2022-23 \u0151szi\\esem\u00E9nyvez\u00E9relt alkalmaz\u00E1sok fejleszt\u00E9se\\gyakorlat\\beadand\u00F3k\\1\\zipelt\\ms\\minemodel\\model\\mineeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E012CD0-A76D-4827-8C72-67FEA8CCF047}|..\\MineModel\\MineModel.csproj|d:\\elte\\2022-23 \u0151szi\\esem\u00E9nyvez\u00E9relt alkalmaz\u00E1sok fejleszt\u00E9se\\gyakorlat\\beadand\u00F3k\\1\\zipelt\\ms\\minemodel\\persistance\\minetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E012CD0-A76D-4827-8C72-67FEA8CCF047}|..\\MineModel\\MineModel.csproj|d:\\elte\\2022-23 \u0151szi\\esem\u00E9nyvez\u00E9relt alkalmaz\u00E1sok fejleszt\u00E9se\\gyakorlat\\beadand\u00F3k\\1\\zipelt\\ms\\minemodel\\persistance\\iminefiledataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E012CD0-A76D-4827-8C72-67FEA8CCF047}|..\\MineModel\\MineModel.csproj|d:\\elte\\2022-23 \u0151szi\\esem\u00E9nyvez\u00E9relt alkalmaz\u00E1sok fejleszt\u00E9se\\gyakorlat\\beadand\u00F3k\\1\\zipelt\\ms\\minemodel\\persistance\\minedataexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA9767B4-3F16-42C5-9FC8-C47786B189CD}|MineSweeper.csproj|D:\\ELTE\\2022-23 \u0151szi\\Esem\u00E9nyvez\u00E9relt alkalmaz\u00E1sok fejleszt\u00E9se\\Gyakorlat\\Beadand\u00F3k\\1\\zipelt\\MS\\MineSweeper\\minesweeper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AA9767B4-3F16-42C5-9FC8-C47786B189CD}|MineSweeper.csproj|solutionrelative:minesweeper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MineEventArgs.cs",
+              "DocumentMoniker": "D:\\ELTE\\2022-23 \u0151szi\\Esem\u00E9nyvez\u00E9relt alkalmaz\u00E1sok fejleszt\u00E9se\\Gyakorlat\\Beadand\u00F3k\\1\\zipelt\\MS\\MineModel\\Model\\MineEventArgs.cs",
+              "RelativeDocumentMoniker": "..\\MineModel\\Model\\MineEventArgs.cs",
+              "ToolTip": "D:\\ELTE\\2022-23 \u0151szi\\Esem\u00E9nyvez\u00E9relt alkalmaz\u00E1sok fejleszt\u00E9se\\Gyakorlat\\Beadand\u00F3k\\1\\zipelt\\MS\\MineModel\\Model\\MineEventArgs.cs",
+              "RelativeToolTip": "..\\MineModel\\Model\\MineEventArgs.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T21:11:07.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Minesweeper.cs",
+              "DocumentMoniker": "D:\\ELTE\\2022-23 \u0151szi\\Esem\u00E9nyvez\u00E9relt alkalmaz\u00E1sok fejleszt\u00E9se\\Gyakorlat\\Beadand\u00F3k\\1\\zipelt\\MS\\MineSweeper\\Minesweeper.cs",
+              "RelativeDocumentMoniker": "Minesweeper.cs",
+              "ToolTip": "D:\\ELTE\\2022-23 \u0151szi\\Esem\u00E9nyvez\u00E9relt alkalmaz\u00E1sok fejleszt\u00E9se\\Gyakorlat\\Beadand\u00F3k\\1\\zipelt\\MS\\MineSweeper\\Minesweeper.cs",
+              "RelativeToolTip": "Minesweeper.cs",
+              "ViewState": "AQIAALoAAAAAAAAAAADgv8wAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T21:04:26.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IMineFileDataAccess.cs",
+              "DocumentMoniker": "D:\\ELTE\\2022-23 \u0151szi\\Esem\u00E9nyvez\u00E9relt alkalmaz\u00E1sok fejleszt\u00E9se\\Gyakorlat\\Beadand\u00F3k\\1\\zipelt\\MS\\MineModel\\Persistance\\IMineFileDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\MineModel\\Persistance\\IMineFileDataAccess.cs",
+              "ToolTip": "D:\\ELTE\\2022-23 \u0151szi\\Esem\u00E9nyvez\u00E9relt alkalmaz\u00E1sok fejleszt\u00E9se\\Gyakorlat\\Beadand\u00F3k\\1\\zipelt\\MS\\MineModel\\Persistance\\IMineFileDataAccess.cs",
+              "RelativeToolTip": "..\\MineModel\\Persistance\\IMineFileDataAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T21:04:26.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MineModel.cs",
+              "DocumentMoniker": "D:\\ELTE\\2022-23 \u0151szi\\Esem\u00E9nyvez\u00E9relt alkalmaz\u00E1sok fejleszt\u00E9se\\Gyakorlat\\Beadand\u00F3k\\1\\zipelt\\MS\\MineModel\\Model\\MineModel.cs",
+              "RelativeDocumentMoniker": "..\\MineModel\\Model\\MineModel.cs",
+              "ToolTip": "D:\\ELTE\\2022-23 \u0151szi\\Esem\u00E9nyvez\u00E9relt alkalmaz\u00E1sok fejleszt\u00E9se\\Gyakorlat\\Beadand\u00F3k\\1\\zipelt\\MS\\MineModel\\Model\\MineModel.cs",
+              "RelativeToolTip": "..\\MineModel\\Model\\MineModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T21:04:26.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Minesweeper.cs",
+              "DocumentMoniker": "D:\\ELTE\\2022-23 \u0151szi\\Esem\u00E9nyvez\u00E9relt alkalmaz\u00E1sok fejleszt\u00E9se\\Gyakorlat\\Beadand\u00F3k\\1\\zipelt\\MS\\MineSweeper\\Minesweeper.cs",
+              "RelativeDocumentMoniker": "Minesweeper.cs",
+              "ToolTip": "D:\\ELTE\\2022-23 \u0151szi\\Esem\u00E9nyvez\u00E9relt alkalmaz\u00E1sok fejleszt\u00E9se\\Gyakorlat\\Beadand\u00F3k\\1\\zipelt\\MS\\MineSweeper\\Minesweeper.cs",
+              "RelativeToolTip": "Minesweeper.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-08T21:04:27.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MineDataException.cs",
+              "DocumentMoniker": "D:\\ELTE\\2022-23 \u0151szi\\Esem\u00E9nyvez\u00E9relt alkalmaz\u00E1sok fejleszt\u00E9se\\Gyakorlat\\Beadand\u00F3k\\1\\zipelt\\MS\\MineModel\\Persistance\\MineDataException.cs",
+              "RelativeDocumentMoniker": "..\\MineModel\\Persistance\\MineDataException.cs",
+              "ToolTip": "D:\\ELTE\\2022-23 \u0151szi\\Esem\u00E9nyvez\u00E9relt alkalmaz\u00E1sok fejleszt\u00E9se\\Gyakorlat\\Beadand\u00F3k\\1\\zipelt\\MS\\MineModel\\Persistance\\MineDataException.cs",
+              "RelativeToolTip": "..\\MineModel\\Persistance\\MineDataException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T21:04:27.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MineTable.cs",
+              "DocumentMoniker": "D:\\ELTE\\2022-23 \u0151szi\\Esem\u00E9nyvez\u00E9relt alkalmaz\u00E1sok fejleszt\u00E9se\\Gyakorlat\\Beadand\u00F3k\\1\\zipelt\\MS\\MineModel\\Persistance\\MineTable.cs",
+              "RelativeDocumentMoniker": "..\\MineModel\\Persistance\\MineTable.cs",
+              "ToolTip": "D:\\ELTE\\2022-23 \u0151szi\\Esem\u00E9nyvez\u00E9relt alkalmaz\u00E1sok fejleszt\u00E9se\\Gyakorlat\\Beadand\u00F3k\\1\\zipelt\\MS\\MineModel\\Persistance\\MineTable.cs",
+              "RelativeToolTip": "..\\MineModel\\Persistance\\MineTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T21:04:27.458Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

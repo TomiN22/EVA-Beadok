@@ -1,0 +1,17 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=34e30fc6_002D7cc0_002D45b3_002D84e5_002D69c15a133ba7/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="StepTest #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::3EF2A2FD-3331-4849-B61E-B430D7F4BF71::net6.0::MineSweeperTest.UnitTest1.StepTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c07d59a1_002D5a52_002D4b7c_002Dba5a_002Dcd2fa7942afc/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="StepTest #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::3EF2A2FD-3331-4849-B61E-B430D7F4BF71::net6.0::MineSweeperTest.UnitTest1.StepTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::3EF2A2FD-3331-4849-B61E-B430D7F4BF71::net6.0::MineSweeperTest.UnitTest1.GameOverTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c24b9bbc_002De78e_002D4d7f_002D8980_002D1e2acb94dedb/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="StepTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::3EF2A2FD-3331-4849-B61E-B430D7F4BF71::net6.0::MineSweeperTest.UnitTest1.StepTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

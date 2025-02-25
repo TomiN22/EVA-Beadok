@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AknamezoWinForms", "AknamezoWinForms\AknamezoWinForms.csproj", "{4C971EF9-314F-4647-8208-C4FFD83A6B5F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AknamezoModel", "..\AknamezoModel\AknamezoModel.csproj", "{54F44739-B3A4-426C-901C-7D29C34CD48D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C971EF9-314F-4647-8208-C4FFD83A6B5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C971EF9-314F-4647-8208-C4FFD83A6B5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C971EF9-314F-4647-8208-C4FFD83A6B5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C971EF9-314F-4647-8208-C4FFD83A6B5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54F44739-B3A4-426C-901C-7D29C34CD48D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54F44739-B3A4-426C-901C-7D29C34CD48D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54F44739-B3A4-426C-901C-7D29C34CD48D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54F44739-B3A4-426C-901C-7D29C34CD48D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A44C3E40-EF9B-4EB4-8656-17EBABBD7D06}
+	EndGlobalSection
+EndGlobal

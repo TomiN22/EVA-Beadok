@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\3 Elszabadult robot\\2\\LooseRobotWPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9CD055-2D77-4422-98A1-D0B363502EAA}|..\\LooseRobotModel\\LooseRobotModel.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\3 elszabadult robot\\2\\looserobotmodel\\model\\gamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9CD055-2D77-4422-98A1-D0B363502EAA}|..\\LooseRobotModel\\LooseRobotModel.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\3 elszabadult robot\\2\\looserobotmodel\\persistence\\looserobotfiledataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE42303D-D2B9-4308-96DD-7479E5E6330D}|LooseRobotWPF\\LooseRobotWPF.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\3 elszabadult robot\\2\\looserobotwpf\\looserobotwpf\\viewmodel\\lrviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE42303D-D2B9-4308-96DD-7479E5E6330D}|LooseRobotWPF\\LooseRobotWPF.csproj|solutionrelative:looserobotwpf\\viewmodel\\lrviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9CD055-2D77-4422-98A1-D0B363502EAA}|..\\LooseRobotModel\\LooseRobotModel.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\3 elszabadult robot\\2\\looserobotmodel\\model\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE42303D-D2B9-4308-96DD-7479E5E6330D}|LooseRobotWPF\\LooseRobotWPF.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\3 elszabadult robot\\2\\looserobotwpf\\looserobotwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EE42303D-D2B9-4308-96DD-7479E5E6330D}|LooseRobotWPF\\LooseRobotWPF.csproj|solutionrelative:looserobotwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LooseRobotFileDataAccess.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\3 Elszabadult robot\\2\\LooseRobotModel\\Persistence\\LooseRobotFileDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\LooseRobotModel\\Persistence\\LooseRobotFileDataAccess.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\3 Elszabadult robot\\2\\LooseRobotModel\\Persistence\\LooseRobotFileDataAccess.cs",
+              "RelativeToolTip": "..\\LooseRobotModel\\Persistence\\LooseRobotFileDataAccess.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAowGgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T18:52:04.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\3 Elszabadult robot\\2\\LooseRobotModel\\Model\\Enemy.cs",
+              "RelativeDocumentMoniker": "..\\LooseRobotModel\\Model\\Enemy.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\3 Elszabadult robot\\2\\LooseRobotModel\\Model\\Enemy.cs",
+              "RelativeToolTip": "..\\LooseRobotModel\\Model\\Enemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T16:52:35.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\3 Elszabadult robot\\2\\LooseRobotWPF\\LooseRobotWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "LooseRobotWPF\\MainWindow.xaml",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\3 Elszabadult robot\\2\\LooseRobotWPF\\LooseRobotWPF\\MainWindow.xaml",
+              "RelativeToolTip": "LooseRobotWPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-16T17:52:47.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LRViewModel.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\3 Elszabadult robot\\2\\LooseRobotWPF\\LooseRobotWPF\\ViewModel\\LRViewModel.cs",
+              "RelativeDocumentMoniker": "LooseRobotWPF\\ViewModel\\LRViewModel.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\3 Elszabadult robot\\2\\LooseRobotWPF\\LooseRobotWPF\\ViewModel\\LRViewModel.cs",
+              "RelativeToolTip": "LooseRobotWPF\\ViewModel\\LRViewModel.cs",
+              "ViewState": "AgIAAHABAAAAAAAAAAAAAIEBAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T17:52:43.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameModel.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\3 Elszabadult robot\\2\\LooseRobotModel\\Model\\GameModel.cs",
+              "RelativeDocumentMoniker": "..\\LooseRobotModel\\Model\\GameModel.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\3 Elszabadult robot\\2\\LooseRobotModel\\Model\\GameModel.cs",
+              "RelativeToolTip": "..\\LooseRobotModel\\Model\\GameModel.cs",
+              "ViewState": "AgIAAOsAAAAAAAAAAAAAAPcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T17:50:58.936Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

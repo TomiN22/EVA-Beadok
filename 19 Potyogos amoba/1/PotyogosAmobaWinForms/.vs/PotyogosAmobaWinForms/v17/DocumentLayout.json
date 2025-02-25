@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\19 Potyogos amoba\\1\\PotyogosAmobaWinForms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E171A37-5723-45A9-A88B-CDA38172982A}|..\\PotyogosAmobaModel\\PotyogosAmobaModel.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\19 potyogos amoba\\1\\potyogosamobamodel\\model\\gamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B193DAD-C5A1-4E55-87D5-13627116060D}|PotyogosAmobaWinForms.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\19 potyogos amoba\\1\\potyogosamobawinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B193DAD-C5A1-4E55-87D5-13627116060D}|PotyogosAmobaWinForms.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E171A37-5723-45A9-A88B-CDA38172982A}|..\\PotyogosAmobaModel\\PotyogosAmobaModel.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\19 potyogos amoba\\1\\potyogosamobamodel\\model\\potyogosamobaeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B193DAD-C5A1-4E55-87D5-13627116060D}|PotyogosAmobaWinForms.csproj|D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\19 Potyogos amoba\\1\\PotyogosAmobaWinForms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B193DAD-C5A1-4E55-87D5-13627116060D}|PotyogosAmobaWinForms.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PotyogosAmobaEventArgs.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\19 Potyogos amoba\\1\\PotyogosAmobaModel\\Model\\PotyogosAmobaEventArgs.cs",
+              "RelativeDocumentMoniker": "..\\PotyogosAmobaModel\\Model\\PotyogosAmobaEventArgs.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\19 Potyogos amoba\\1\\PotyogosAmobaModel\\Model\\PotyogosAmobaEventArgs.cs",
+              "RelativeToolTip": "..\\PotyogosAmobaModel\\Model\\PotyogosAmobaEventArgs.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T14:22:25.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameModel.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\19 Potyogos amoba\\1\\PotyogosAmobaModel\\Model\\GameModel.cs",
+              "RelativeDocumentMoniker": "..\\PotyogosAmobaModel\\Model\\GameModel.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\19 Potyogos amoba\\1\\PotyogosAmobaModel\\Model\\GameModel.cs",
+              "RelativeToolTip": "..\\PotyogosAmobaModel\\Model\\GameModel.cs",
+              "ViewState": "AgIAAEsBAAAAAAAAAIAwwFgBAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T00:40:11.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\19 Potyogos amoba\\1\\PotyogosAmobaWinForms\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\19 Potyogos amoba\\1\\PotyogosAmobaWinForms\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAOoAAAAAAAAAAAAiwAEBAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T23:31:47.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\19 Potyogos amoba\\1\\PotyogosAmobaWinForms\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\19 Potyogos amoba\\1\\PotyogosAmobaWinForms\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T23:20:00.86Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

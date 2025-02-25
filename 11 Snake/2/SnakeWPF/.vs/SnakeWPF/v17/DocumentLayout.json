@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\11 Snake\\2\\SnakeWPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{472C4A66-4FC5-4491-BF82-79B3F9588124}|..\\SnakeModel\\SnakeModel.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\11 snake\\2\\snakemodel\\model\\gamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59E87792-63AF-4743-9EEF-11347524370C}|SnakeWPF.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\11 snake\\2\\snakewpf\\viewmodel\\bhviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59E87792-63AF-4743-9EEF-11347524370C}|SnakeWPF.csproj|solutionrelative:viewmodel\\bhviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{472C4A66-4FC5-4491-BF82-79B3F9588124}|..\\SnakeModel\\SnakeModel.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\11 snake\\2\\snakemodel\\persistence\\snakefiledataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59E87792-63AF-4743-9EEF-11347524370C}|SnakeWPF.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\11 snake\\2\\snakewpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59E87792-63AF-4743-9EEF-11347524370C}|SnakeWPF.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59E87792-63AF-4743-9EEF-11347524370C}|SnakeWPF.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\11 snake\\2\\snakewpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{59E87792-63AF-4743-9EEF-11347524370C}|SnakeWPF.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{472C4A66-4FC5-4491-BF82-79B3F9588124}|..\\SnakeModel\\SnakeModel.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\11 snake\\2\\snakemodel\\persistence\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\11 Snake\\2\\SnakeWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\11 Snake\\2\\SnakeWPF\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-22T20:40:00.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameModel.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\11 Snake\\2\\SnakeModel\\Model\\GameModel.cs",
+              "RelativeDocumentMoniker": "..\\SnakeModel\\Model\\GameModel.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\11 Snake\\2\\SnakeModel\\Model\\GameModel.cs",
+              "RelativeToolTip": "..\\SnakeModel\\Model\\GameModel.cs",
+              "ViewState": "AgIAANcAAAAAAAAAAAAqwOMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T21:51:13.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\11 Snake\\2\\SnakeWPF\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\11 Snake\\2\\SnakeWPF\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T11:09:12.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SnakeFileDataAccess.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\11 Snake\\2\\SnakeModel\\Persistence\\SnakeFileDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\SnakeModel\\Persistence\\SnakeFileDataAccess.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\11 Snake\\2\\SnakeModel\\Persistence\\SnakeFileDataAccess.cs",
+              "RelativeToolTip": "..\\SnakeModel\\Persistence\\SnakeFileDataAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T09:26:41.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Table.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\11 Snake\\2\\SnakeModel\\Persistence\\Table.cs",
+              "RelativeDocumentMoniker": "..\\SnakeModel\\Persistence\\Table.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\11 Snake\\2\\SnakeModel\\Persistence\\Table.cs",
+              "RelativeToolTip": "..\\SnakeModel\\Persistence\\Table.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAjwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T21:52:49.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BHViewModel.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\11 Snake\\2\\SnakeWPF\\ViewModel\\BHViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\BHViewModel.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\11 Snake\\2\\SnakeWPF\\ViewModel\\BHViewModel.cs",
+              "RelativeToolTip": "ViewModel\\BHViewModel.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAG0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T11:21:23.259Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

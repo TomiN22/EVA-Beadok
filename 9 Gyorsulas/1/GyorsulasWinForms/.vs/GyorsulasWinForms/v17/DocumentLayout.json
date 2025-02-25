@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\9 Gyorsulas\\1\\GyorsulasWinForms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2561AACB-7239-4EA4-A6CC-08E69CA7A6D7}|..\\AsteroidsModel\\AsteroidsModel.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\9 gyorsulas\\1\\asteroidsmodel\\model\\meteor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2561AACB-7239-4EA4-A6CC-08E69CA7A6D7}|..\\AsteroidsModel\\AsteroidsModel.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\9 gyorsulas\\1\\asteroidsmodel\\model\\gamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D441665F-CEBC-4E6D-933C-F723C874ACFE}|GyorsulasWinForms\\GyorsulasWinForms.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\9 gyorsulas\\1\\gyorsulaswinforms\\gyorsulaswinforms\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D441665F-CEBC-4E6D-933C-F723C874ACFE}|GyorsulasWinForms\\GyorsulasWinForms.csproj|solutionrelative:gyorsulaswinforms\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D441665F-CEBC-4E6D-933C-F723C874ACFE}|GyorsulasWinForms\\GyorsulasWinForms.csproj|D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\9 Gyorsulas\\1\\GyorsulasWinForms\\gyorsulaswinforms\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D441665F-CEBC-4E6D-933C-F723C874ACFE}|GyorsulasWinForms\\GyorsulasWinForms.csproj|solutionrelative:gyorsulaswinforms\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2561AACB-7239-4EA4-A6CC-08E69CA7A6D7}|..\\AsteroidsModel\\AsteroidsModel.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\9 gyorsulas\\1\\asteroidsmodel\\persistence\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2561AACB-7239-4EA4-A6CC-08E69CA7A6D7}|..\\AsteroidsModel\\AsteroidsModel.csproj|d:\\elte\\2024 tavaszi\\eva gyakorlas\\beadok\\9 gyorsulas\\1\\asteroidsmodel\\persistence\\asteroidsfiledataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Table.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\9 Gyorsulas\\1\\AsteroidsModel\\Persistence\\Table.cs",
+              "RelativeDocumentMoniker": "..\\AsteroidsModel\\Persistence\\Table.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\9 Gyorsulas\\1\\AsteroidsModel\\Persistence\\Table.cs",
+              "RelativeToolTip": "..\\AsteroidsModel\\Persistence\\Table.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T11:50:00.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AsteroidsFileDataAccess.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\9 Gyorsulas\\1\\AsteroidsModel\\Persistence\\AsteroidsFileDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\AsteroidsModel\\Persistence\\AsteroidsFileDataAccess.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\9 Gyorsulas\\1\\AsteroidsModel\\Persistence\\AsteroidsFileDataAccess.cs",
+              "RelativeToolTip": "..\\AsteroidsModel\\Persistence\\AsteroidsFileDataAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T11:47:45.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Meteor.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\9 Gyorsulas\\1\\AsteroidsModel\\Model\\Meteor.cs",
+              "RelativeDocumentMoniker": "..\\AsteroidsModel\\Model\\Meteor.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\9 Gyorsulas\\1\\AsteroidsModel\\Model\\Meteor.cs",
+              "RelativeToolTip": "..\\AsteroidsModel\\Model\\Meteor.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T10:55:25.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameModel.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\9 Gyorsulas\\1\\AsteroidsModel\\Model\\GameModel.cs",
+              "RelativeDocumentMoniker": "..\\AsteroidsModel\\Model\\GameModel.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\9 Gyorsulas\\1\\AsteroidsModel\\Model\\GameModel.cs",
+              "RelativeToolTip": "..\\AsteroidsModel\\Model\\GameModel.cs",
+              "ViewState": "AQIAAMMAAAAAAAAAAAAowHkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T10:52:44.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form.cs",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\9 Gyorsulas\\1\\GyorsulasWinForms\\GyorsulasWinForms\\Form.cs",
+              "RelativeDocumentMoniker": "GyorsulasWinForms\\Form.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\9 Gyorsulas\\1\\GyorsulasWinForms\\GyorsulasWinForms\\Form.cs",
+              "RelativeToolTip": "GyorsulasWinForms\\Form.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAUwBYBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T10:08:44.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form.cs [Design]",
+              "DocumentMoniker": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\9 Gyorsulas\\1\\GyorsulasWinForms\\GyorsulasWinForms\\Form.cs",
+              "RelativeDocumentMoniker": "GyorsulasWinForms\\Form.cs",
+              "ToolTip": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\9 Gyorsulas\\1\\GyorsulasWinForms\\GyorsulasWinForms\\Form.cs [Design]",
+              "RelativeToolTip": "GyorsulasWinForms\\Form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T09:52:41.944Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="pic\Peppa_fekete_fel.png" />
+    <None Remove="pic\Peppa_fekete_jobb.png" />
+    <None Remove="pic\Peppa_fekete_le.png" />
+    <None Remove="pic\Peppa_malac_szemcsi_fekete.png" />
+    <None Remove="pic\Peppa_malac_szemcsi_piros.png" />
+    <None Remove="pic\Peppa_piros_fel.png" />
+    <None Remove="pic\Peppa_piros_jobb.png" />
+    <None Remove="pic\Peppa_piros_le.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RobotmalacModel\RobotmalacModel.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="pic\Peppa_fekete_fel.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="pic\Peppa_fekete_jobb.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="pic\Peppa_fekete_le.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="pic\Peppa_malac_szemcsi_piros.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="pic\Peppa_piros_fel.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="pic\Peppa_piros_jobb.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="pic\Peppa_piros_le.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+</Project>

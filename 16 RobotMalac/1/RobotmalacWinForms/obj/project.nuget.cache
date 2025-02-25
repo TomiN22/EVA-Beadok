@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "/wxXVJTpXz8=",
+  "success": true,
+  "projectFilePath": "D:\\ELTE\\2024 tavaszi\\EVA Gyakorlas\\Beadok\\16 RobotMalac\\1\\RobotmalacWinForms\\RobotmalacWinForms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nadas\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\nadas\\.nuget\\packages\\elte.eva.saruleset\\2.1.1\\elte.eva.saruleset.2.1.1.nupkg.sha512",
+    "C:\\Users\\nadas\\.nuget\\packages\\microsoft.codeanalysis.bannedapianalyzers\\3.3.4\\microsoft.codeanalysis.bannedapianalyzers.3.3.4.nupkg.sha512",
+    "C:\\Users\\nadas\\.nuget\\packages\\moq\\4.20.69\\moq.4.20.69.nupkg.sha512",
+    "C:\\Users\\nadas\\.nuget\\packages\\roslynator.analyzers\\4.5.0\\roslynator.analyzers.4.5.0.nupkg.sha512",
+    "C:\\Users\\nadas\\.nuget\\packages\\sonaranalyzer.csharp\\9.12.0.78982\\sonaranalyzer.csharp.9.12.0.78982.nupkg.sha512",
+    "C:\\Users\\nadas\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512",
+    "C:\\Users\\nadas\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\nadas\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\nadas\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\nadas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}
